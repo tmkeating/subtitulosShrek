@@ -602,8 +602,8 @@ Ya he oído bastante.
 
 147
 00:06:21,765 --> 00:06:23,390
-¡Eta!
-¡Vamos, vieja!
+¡Quieta!
+- ¡Vamos, vieja!
 
 148
 00:06:23,670 --> 00:06:25,290
@@ -629,14 +629,22 @@ Ahora, además de hablar, vuelo.
 153
 00:06:32,170 --> 00:06:35,070
 Habréis visto un ciervo volante o un
-cuervo chocolate.
+cuervo chocolante.
 
 154
 00:06:35,300 --> 00:06:38,133
 Pero seguro que no habéis visto un asno volante.
 
+0
+00:06:38,207 --> 00:06:39,707
+¡Ja ja ja ja ja!
+
+0
+00:06:42,482 --> 00:06:42,995
+¡Uf!
+
 155
-00:06:44,510 --> 00:06:45,269
+00:06:44,574 --> 00:06:45,333
 ¡Prendedle!
 
 156
