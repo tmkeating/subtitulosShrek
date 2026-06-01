@@ -61,7 +61,7 @@ once told me the world is gonna roll me,
 
 15
 00:01:39,320 --> 00:01:42,628
-I ain't the sharpest tool in the shed.
+I ain't the sharpest tool in the sheeed.
 
 16
 00:01:43,384 --> 00:01:45,396
@@ -89,7 +89,7 @@ and they don't stop comin'.
 
 22
 00:01:55,786 --> 00:01:56,641
-Fed to the wolves 
+Fed to the wolves
 
 23
 00:01:56,665 --> 00:01:57,829
@@ -213,7 +213,7 @@ so you might as well swim.
 
 53
 00:02:43,370 --> 00:02:44,716
-My world's on fire, 
+My world's on fire,
 
 54
 00:02:44,740 --> 00:02:45,818
@@ -393,7 +393,7 @@ Es deliciosa untada en pan.
 
 97
 00:04:09,470 --> 00:04:10,470
-¡Soy capaz de!
+¡Soy capaz de...!
 
 98
 00:04:15,300 --> 00:04:16,033
@@ -525,7 +525,7 @@ Llévatelo.
 
 129
 00:05:42,850 --> 00:05:45,690
-Bien. 
+Bien.
 Les he traído un asno parlante.
 
 130
@@ -826,7 +826,7 @@ burlado.
 
 200
 00:09:05,779 --> 00:09:09,430
-Pero tienes amigos... 
+Pero tienes amigos...
 - ¡Deja de cantar!
 
 201
@@ -1794,7 +1794,7 @@ debería mencionar una cosilla que le pasa de noche.
 
 432
 00:19:57,455 --> 00:19:59,611
-Sí, al ponerse el sol... 
+Sí, al ponerse el sol...
 ¡Silencio!
 
 433
@@ -2022,7 +2022,7 @@ sacrificio que estoy dispuesto a asumir.
 
 486
 00:23:30,290 --> 00:23:31,970
-¡Ups! 
+¡Ups!
 Es horroroso.
 
 487
@@ -2091,5356 +2091,5355 @@ cervecita?
 00:24:25,733 --> 00:24:27,761
 ♪ And I don't give a damn about my bad reputation. ♪
 
-0
+503
 00:24:29,826 --> 00:24:30,750
 ♪ Oh no. ♪
 
-0
+504
 00:24:32,178 --> 00:24:33,182
 ♪ Not me !♪
 
-503
+505
 00:24:34,026 --> 00:24:34,782
 !Tejá volví!
 
-504
+506
 00:24:34,865 --> 00:24:36,338
 ¡Por fa'! ¡Por fa'!
 
-505
+507
 00:24:41,506 --> 00:24:42,910
 ¡Jaaa!
 
-506
+508
 00:24:43,074 --> 00:24:44,574
 ¡Ja ja ja ja!
 
-507
+509
 00:24:45,125 --> 00:24:46,625
 ¡Ya!
 
-508
+510
 00:24:48,602 --> 00:24:50,476
 ¡La silla! ¡Puta, la silla!
 
-509
+511
 00:24:53,136 --> 00:24:54,476
 ¡Como útil, ¿eh?!
 
-510
+512
 00:25:04,494 --> 00:25:05,840
 ♪ Not me! ♪
 
-511
+513
 00:25:05,864 --> 00:25:06,708
 *ding*
 
-0
+514
 00:25:08,256 --> 00:25:09,672
 ¡Ja ja ja!
 
-512
+515
 00:25:10,034 --> 00:25:11,539
 ¡Ooh ya!
 
-0
+516
 00:25:11,893 --> 00:25:13,318
 ¡Raah!
 
-0
+517
 00:25:13,386 --> 00:25:15,201
 ¡Raah!
 
-513
+518
 00:25:15,469 --> 00:25:16,682
 ¡Gracias!
 
-514
+519
 00:25:16,904 --> 00:25:18,248
 ¡Son muy amables!
 
-515
+520
 00:25:18,449 --> 00:25:19,652
 ¡Últimas funciones!
 
-516
+521
 00:25:19,769 --> 00:25:20,900
 ¡Precios populares!
 
-517
+522
 00:25:21,060 --> 00:25:22,060
 ¡Je, je, je!
 
-518
+523
 00:25:27,409 --> 00:25:28,494
 ¿Doy la orden, Señor?
 
-519
+524
 00:25:29,300 --> 00:25:29,890
 No.
 
-520
+525
 00:25:30,559 --> 00:25:32,066
 ¡Tengo una idea mucho mejor!
 
-521
+526
 00:25:32,789 --> 00:25:34,649
 ¡Pueblo de Duloc!
 
-522
+527
 00:25:34,909 --> 00:25:37,254
 ¡Os presento a nuestro campeón!
 
-523
+528
 00:25:38,010 --> 00:25:39,010
 ¿Qué?
 
-524
+529
 00:25:40,249 --> 00:25:41,370
 ¡Enhorabuena, ogro!
 
-525
+530
 00:25:42,154 --> 00:25:46,204
 ¡Has ganado el honor de embarcarte en una
 grande y noble misión!
 
-526
+531
 00:25:46,270 --> 00:25:47,270
 ¿Misión?
 
-527
+532
 00:25:47,389 --> 00:25:48,864
 ¡Yo ya tengo una misión!
 
-528
+533
 00:25:48,889 --> 00:25:51,032
 ¡La de recuperar mi propia ciénaga!
 
-529
+534
 00:25:51,169 --> 00:25:52,059
 ¿Tu ciénaga?
 
-530
+535
 00:25:52,130 --> 00:25:52,565
 ¡Sí!
 
-531
+536
 00:25:52,650 --> 00:25:53,836
 ¡Mi ciénaga!
 
-532
+537
 00:25:53,969 --> 00:25:56,775
 ¡Donde tú has aparcado a esas criaturas!
 
-533
+538
 00:25:57,699 --> 00:25:58,699
 ¿Ah, sí?
 
-534
+539
 00:25:59,629 --> 00:26:01,420
 De acuerdo, ogro, hagamos un trato.
 
-535
+540
 00:26:01,909 --> 00:26:05,592
 Si esta misión tú cumples, yo tu ciénaga
 te devuelvo.
 
-536
+541
 00:26:06,410 --> 00:26:08,092
 ¿Igualita que estaba antes?
 
-537
+542
 00:26:08,304 --> 00:26:10,986
 Hasta el último excremento de conejito.
 
-538
+543
 00:26:11,209 --> 00:26:12,460
 ¿Y los ocupas?
 
-539
+544
 00:26:13,024 --> 00:26:14,302
 Desaparecerán.
 
-540
+545
 00:26:18,099 --> 00:26:20,154
 ¿Qué clase de misión?
 
-541
+546
 00:26:21,344 --> 00:26:22,350
 A ver si no he entendido.
 
-542
+547
 00:26:22,529 --> 00:26:25,570
 O sea, que vas a luchar contra un dragón y
 a rescatar a una princesa para que
 
-543
+548
 00:26:25,644 --> 00:26:27,779
 Farquaad te devuelva
 una ciénaga que ahora no
 
-544
+549
 00:26:27,780 --> 00:26:29,690
 tienes porque él la ha
 llenado de monstruos.
 
-545
+550
 00:26:29,715 --> 00:26:30,642
 ¿Va por ahí la cosa?
 
-546
+551
 00:26:30,670 --> 00:26:31,298
 ¿Sabes?
 
-547
+552
 00:26:31,639 --> 00:26:34,184
 Me parece que ya sé por qué los burros no
 deberían hablar.
 
-548
+553
 00:26:34,599 --> 00:26:35,939
 No lo entiendo, tío.
 
-549
+554
 00:26:36,239 --> 00:26:38,374
 ¿Por qué no le has montado un buen pollo
 en planogro?
 
-550
+555
 00:26:38,399 --> 00:26:39,746
 ¡De huello y destrucción!
 
-551
+556
 00:26:39,969 --> 00:26:42,975
 Ya sabes, lo de comer carne humana cruda y
 esas cosillas.
 
-552
+557
 00:26:43,050 --> 00:26:43,612
 ¡Oh!
 
-553
+558
 00:26:43,790 --> 00:26:44,790
 Ahora caigo.
 
-554
+559
 00:26:45,049 --> 00:26:49,170
 A lo mejor debería haber decapitado a toda
 una aldea y clavado sus cabezas en estacas.
 
-555
+560
 00:26:49,379 --> 00:26:53,280
 Y con un cuchillo afilado abrir sus
 barrigas y beber sus fluidos.
 
-556
+561
 00:26:53,839 --> 00:26:55,078
 ¿Te habría gustado eso?
 
-557
+562
 00:26:56,799 --> 00:26:58,048
 No, realmente no.
 
-558
+563
 00:26:58,329 --> 00:27:02,156
 Para tu información, un ogro es más
 complejo de lo que la gente cree.
 
-559
+564
 00:27:02,590 --> 00:27:04,370
 Ponme un ejemplo.
 - ¿Un ejemplo?
 
-560
+565
 00:27:04,670 --> 00:27:05,670
 De acuerdo.
 
-561
+566
 00:27:07,029 --> 00:27:09,291
 Un ogro es… como una cebolla.
 
-562
+567
 00:27:10,590 --> 00:27:11,271
 ¿Apesta?
 
-563
+568
 00:27:11,330 --> 00:27:11,605
 Sí.
 
-564
+569
 00:27:11,650 --> 00:27:12,650
 ¡No!
 - ¿Te hacen llorar?
 
-565
+570
 00:27:12,790 --> 00:27:13,848
 ¡No!
 - ¡Ah!
 
-566
+571
 00:27:13,919 --> 00:27:16,729
 ¿Si las pones al sol, se vuelven marrones y
 les salen pelitos blancos?
 
-567
+572
 00:27:17,010 --> 00:27:17,926
 ¡No!
 
-568
+573
 00:27:17,959 --> 00:27:19,070
 ¡Las capas!
 
-569
+574
 00:27:19,499 --> 00:27:21,510
 ¡Las cebollas tienen capas!
 
-570
+575
 00:27:21,659 --> 00:27:22,990
 ¡Los ogros tenemos capas!
 
-571
+576
 00:27:23,050 --> 00:27:24,270
 ¡Las cebollas tienen capas!
 
-572
+577
 00:27:24,390 --> 00:27:25,150
 ¡Los captas!
 
-573
+578
 00:27:25,229 --> 00:27:26,450
 ¡Los dos tenemos capas!
 
-574
+579
 00:27:26,650 --> 00:27:27,650
 ¡Ah!
 
-575
+580
 00:27:28,970 --> 00:27:29,859
 ¡Oh!
 
-576
+581
 00:27:29,889 --> 00:27:31,670
 ¡Conque tenéis capas!
 
-577
+582
 00:27:31,671 --> 00:27:32,671
 ¡Mmm!
 
-578
+583
 00:27:33,679 --> 00:27:35,335
 ¡Las cebollas no gustan a todos!
 
-579
+584
 00:27:36,130 --> 00:27:36,769
 ¡Tarta!
 
-580
+585
 00:27:36,794 --> 00:27:38,010
 ¡A la gente le gusta la tarta!
 
-581
+586
 00:27:38,150 --> 00:27:39,110
 ¡Y tiene capas!
 
-582
+587
 00:27:39,111 --> 00:27:40,190
 ¡Me importa un pito!
 
-583
+588
 00:27:40,889 --> 00:27:42,287
 ¡Lo que le guste a la gente!
 
-584
+589
 00:27:43,129 --> 00:27:46,229
 ¡Los ogros no somos como las tartas!
 
-585
+590
 00:27:49,089 --> 00:27:50,937
 ¡También hay pastelitos que tienen capas!
 
-586
+591
 00:27:51,109 --> 00:27:54,110
 ¿Tú sabes de alguien que si le dices,
 tío, nos codemos unos pasteles,
 
-587
+592
 00:27:54,250 --> 00:27:55,250
 diga paso, no me gustan?
 
-588
+593
 00:27:55,350 --> 00:27:57,331
 ¡Los pasteles colar!
 - ¡No!
 
-589
+594
 00:27:57,510 --> 00:28:00,414
 ¡Pedazo de cacho, de trozo, de mula en
 miniatura!
 
-590
+595
 00:28:00,759 --> 00:28:02,510
 ¡Los ogros somos como las cebollas!
 
-591
+596
 00:28:02,610 --> 00:28:03,556
 ¡Se acabó el asunto!
 
-592
+597
 00:28:03,610 --> 00:28:04,610
 ¡Bye, bye!
 
-593
+598
 00:28:05,010 --> 00:28:06,010
 ¡Hasta luego!
 
-594
+599
 00:28:10,729 --> 00:28:14,077
 Pues para que lo sepas, los pasteles son
 lo más rico del mundo.
 
-595
+600
 00:28:14,120 --> 00:28:14,640
 ¿Sabes?
 
-596
+601
 00:28:14,789 --> 00:28:16,440
 Creo que prefiero que canturrees.
 
-597
+602
 00:28:16,900 --> 00:28:17,900
 ¿Tienes un pañuelo?
 
-598
+603
 00:28:18,479 --> 00:28:19,595
 Me estoy poniendo perdido.
 
-599
+604
 00:28:19,620 --> 00:28:22,258
 Solo con decir pastel, se me empieza a
 caer la baba.
 
-600
+605
 00:29:03,070 --> 00:29:04,170
 ¡Tronco, has sido tú!
 
-601
+606
 00:29:04,890 --> 00:29:05,570
 ¡Jo', tío!
 
-602
+607
 00:29:05,719 --> 00:29:07,378
 Podías avisar antes de zurrarte.
 
-603
+608
 00:29:07,439 --> 00:29:08,766
 Me has pillado con la boca abierta.
 
-604
+609
 00:29:08,790 --> 00:29:09,904
 Créeme, Aslo.
 
-605
+610
 00:29:09,929 --> 00:29:12,595
 Si hubiera sido yo, habrías muerto.
 
-606
+611
 00:29:13,579 --> 00:29:14,776
 Has sido el azufre.
 
-607
+612
 00:29:15,421 --> 00:29:16,367
 Debemos de estar cerca.
 
-608
+613
 00:29:16,391 --> 00:29:17,085
 Sí, claro.
 
-609
+614
 00:29:17,110 --> 00:29:18,200
 A mí me vas a engañar.
 
-610
+615
 00:29:18,969 --> 00:29:22,608
 Oye, aquí estamos tú y yo solitos, así que
 no me digas que ha sido ese tal azufre.
 
-611
+616
 00:29:22,650 --> 00:29:24,206
 Cada uno que apechugue con lo suyo.
 
-612
+617
 00:29:42,989 --> 00:29:44,502
 Sí, es bastante amplio.
 
-613
+618
 00:29:44,527 --> 00:29:45,860
 Pero no es muy soleado.
 
-614
+619
 00:29:46,340 --> 00:29:48,000
 ¡Je, je, je, je, je, je!
 
-615
+620
 00:29:49,060 --> 00:29:50,060
 ¡Ay, Shrek!
 
-616
+621
 00:29:51,860 --> 00:29:54,680
 ¿Recuerdas lo que has dicho de que los
 ogros tenéis capas?
 
-617
+622
 00:29:54,681 --> 00:29:56,027
 Ah, sí.
 
-618
+623
 00:29:57,179 --> 00:29:59,193
 Pues debo confesarte algo.
 
-619
+624
 00:29:59,240 --> 00:30:01,137
 ¡Ah!
 Los asnos no tenemos capas.
 
-620
+625
 00:30:01,249 --> 00:30:02,846
 Llevamos el miedo pintado en la cara.
 
-621
+626
 00:30:03,160 --> 00:30:03,920
 Para un momento.
 
-622
+627
 00:30:04,149 --> 00:30:06,120
 Los asnos, ¿no os pintáis la cara?
 
-623
+628
 00:30:06,121 --> 00:30:07,300
 Es una forma de hablar, tío.
 
-624
+629
 00:30:07,340 --> 00:30:09,620
 No irás a decirme que te dan miedo las
 alturas.
 
-625
+630
 00:30:10,000 --> 00:30:10,789
 ¡No!
 
-626
+631
 00:30:10,814 --> 00:30:14,160
 ¡Solo me incomodo un poco cruzar un puente
 anémico sobre un lago de lava viente!
 
-627
+632
 00:30:14,161 --> 00:30:15,940
 Por favor, Asno.
 
-628
+633
 00:30:16,169 --> 00:30:18,060
 Yo estaré todo el rato a tu lado.
 
-629
+634
 00:30:18,306 --> 00:30:18,975
 ¿De acuerdo?
 
-630
+635
 00:30:19,000 --> 00:30:21,110
 Para… darte mi apoyo moral.
 
-631
+636
 00:30:21,599 --> 00:30:25,816
 Ahora, cruzaremos esto juntitos,
 muy despacito y con buena letra.
 
-632
+637
 00:30:26,060 --> 00:30:26,675
 ¿De verdad?
 
-633
+638
 00:30:26,700 --> 00:30:27,764
 De verdad de la buena.
 
-634
+639
 00:30:27,960 --> 00:30:28,960
 Ah, vale.
 
-635
+640
 00:30:29,153 --> 00:30:30,449
 Así me siento más seguro.
 
-636
+641
 00:30:30,480 --> 00:30:31,522
 Tú no te pares.
 
-637
+642
 00:30:31,634 --> 00:30:33,055
 Y no mires hacia abajo.
 
-638
+643
 00:30:33,080 --> 00:30:34,945
 Vale, yo no miro. Yo no miro.
 
-639
+644
 00:30:34,980 --> 00:30:36,395
 Yo no miro para abajo.
 
-640
+645
 00:30:36,420 --> 00:30:37,420
 Tú no te pares.
 
-641
+646
 00:30:37,759 --> 00:30:39,349
 Tú pa'lante como un machota.
 
-642
+647
 00:30:41,560 --> 00:30:42,312
 ¡Shrek!
 
-643
+648
 00:30:42,370 --> 00:30:43,513
 ¡Estoy mirando!
 
-644
+649
 00:30:43,553 --> 00:30:44,860
 ¡Ah!
 ¡Mielos!
 
-645
+650
 00:30:44,980 --> 00:30:46,560
 ¡No puedo hacerlo!
 ¡Déjame marchar!
 
-646
+651
 00:30:46,561 --> 00:30:48,334
 Ya has conseguido cruzar la mitad.
 
-647
+652
 00:30:48,359 --> 00:30:49,904
 ¡Pero esa era la mitad segura!
 
-648
+653
 00:30:50,061 --> 00:30:50,816
 De acuerdo.
 
-649
+654
 00:30:50,840 --> 00:30:52,240
 Vale.
 Déjate de lamentos.
 
-650
+655
 00:30:52,319 --> 00:30:53,170
 Intenta pasar.
 
-651
+656
 00:30:53,300 --> 00:30:54,681
 ¡Quieto! ¡No! ¡Para!
 - Oye, Asno.
 
-652
+657
 00:30:54,837 --> 00:30:55,700
 Ohhh.
 
-653
+658
 00:30:55,724 --> 00:30:57,513
 ¿Me costaría ese baile? ¡Vamonos!
 - ¡Espera!
 
-654
+659
 00:30:57,525 --> 00:30:58,542
 ¡No hagas eso!
 
-655
+660
 00:30:59,634 --> 00:31:00,915
 ¡Oh, perdona!
 
-656
+661
 00:31:00,940 --> 00:31:01,940
 ¿Hacer qué?
 
-657
+662
 00:31:02,400 --> 00:31:03,303
 ¡Oh!
 
-658
+663
 00:31:03,660 --> 00:31:04,422
 ¿Esto?
 
-659
+664
 00:31:04,540 --> 00:31:05,497
 ¡Si, eso!
 
-660
+665
 00:31:05,560 --> 00:31:06,560
 ¿Sí?
 
-661
+666
 00:31:06,929 --> 00:31:08,335
 ¿Quieres que lo haga?
 
-662
+667
 00:31:08,360 --> 00:31:09,360
 ¡Muy bien!
 
-663
+668
 00:31:09,420 --> 00:31:10,223
 ¡Ah!
 
-664
+669
 00:31:10,663 --> 00:31:12,152
 ¡No, Shrek! ¡No!
 
-665
+670
 00:31:12,177 --> 00:31:14,895
 ¡Shrek, quieto! ¡Basta! ¡Basta!
 - ¡Que te he dicho lo haga, y yo lo hago!
 
-666
+671
 00:31:14,920 --> 00:31:17,908
 ¡Voy a morir! ¡Voy a morir! ¡Voy a morir!
 
-667
+672
 00:31:19,196 --> 00:31:19,998
 Oh!
 
-668
+673
 00:31:21,993 --> 00:31:24,282
 Está bien, Aslo. Está bien.
 
-669
+674
 00:31:29,278 --> 00:31:29,984
 ¡Genial!
 
-670
+675
 00:31:31,792 --> 00:31:34,161
 ¿Dónde estará ese peñazo escupellamas?
 
-671
+676
 00:31:34,340 --> 00:31:35,228
 ¡Dentro!
 
-672
+677
 00:31:35,253 --> 00:31:36,949
 ¡Esperando que la rescatemos!
 
-673
+678
 00:31:36,974 --> 00:31:38,120
 ¡Je, je, je!
 
-674
+679
 00:31:38,569 --> 00:31:40,214
 ¡Me refería al dragón, tío!
 
-675
+680
 00:31:57,605 --> 00:31:58,703
 ¿Tienes miedo?
 
-676
+681
 00:31:58,728 --> 00:31:59,861
 No.
 
-677
+682
 00:32:00,200 --> 00:32:00,970
 Pero...
 
-678
+683
 00:32:01,122 --> 00:32:01,797
 ¡Shh!
 
-679
+684
 00:32:02,254 --> 00:32:03,674
 ¡Perfecto! Yo tampoco.
 
-680
+685
 00:32:04,719 --> 00:32:05,477
 ¡Ah!
 
-681
+686
 00:32:07,260 --> 00:32:09,155
 Aunque no pasa nada, sí, tienes miedo.
 
-682
+687
 00:32:09,179 --> 00:32:11,860
 El miedo es una reacción sensata ante una
 situación desconocida.
 
-683
+688
 00:32:12,444 --> 00:32:14,404
 Desconocida y peligrosa, me permito
 añadir.
 
-684
+689
 00:32:14,429 --> 00:32:17,980
 Y con un dragón que escupe fuego y devora
 caballeros y escupe fuego, pues si estás
 
-685
+690
 00:32:17,981 --> 00:32:20,453
 un pelín asustado, no significa que seas
 un cobarde.
 
-686
+691
 00:32:20,828 --> 00:32:22,298
 ¡Yo sé que no soy un cobarde!
 
-687
+692
 00:32:22,323 --> 00:32:22,961
 ¡Yo!
 
-688
+693
 00:32:25,330 --> 00:32:26,035
 Aslo.
 
-689
+694
 00:32:26,379 --> 00:32:27,060
 Dos cosas.
 
-690
+695
 00:32:27,440 --> 00:32:28,440
 ¿De acuerdo?
 
-691
+696
 00:32:28,820 --> 00:32:29,820
 Cerrar.
 
-692
+697
 00:32:30,280 --> 00:32:31,280
 Ocico.
 
-693
+698
 00:32:31,539 --> 00:32:33,694
 Y ahora a ver si encuentras unas
 escaleras.
 
-694
+699
 00:32:34,000 --> 00:32:35,184
 ¿Escaleras?
 
-695
+700
 00:32:35,209 --> 00:32:36,418
 ¿No buscamos a una princesa?
 
-696
+701
 00:32:36,443 --> 00:32:41,160
 La princesa estará al final de unas escaleras
 en lo más alto de la más alta torre.
 
-697
+702
 00:32:41,609 --> 00:32:42,925
 ¿Y cómo sabes tú eso?
 
-698
+703
 00:32:43,179 --> 00:32:44,301
 Lo leí en un cuento.
 
-699
+704
 00:32:45,400 --> 00:32:46,400
 Sí, Señor.
 
-700
+705
 00:32:46,729 --> 00:32:48,740
 Tú busca al dragón y yo esas escaleras.
 
-701
+706
 00:32:49,529 --> 00:32:53,900
 Cuando las encuentre, les voy a meter una
 paliza, que no sabrán si suben o bajan.
 
-702
+707
 00:32:59,760 --> 00:33:03,300
 Escalón a escalón, la patearé para que se
 entere quién es el mataescaleras.
 
-703
+708
 00:33:03,600 --> 00:33:04,600
 Menudo soy.
 
-704
+709
 00:33:04,869 --> 00:33:07,460
 Si viera un solo escalón, le marcaría con
 los cascos.
 
-705
+710
 00:33:11,449 --> 00:33:14,035
 Oh, ya sabemos dónde está la princesa.
 
-706
+711
 00:33:14,060 --> 00:33:14,883
 ¿Dónde estará el…?
 
-707
+712
 00:33:14,919 --> 00:33:16,470
 ¡Dragón!
 
-708
+713
 00:33:16,899 --> 00:33:19,381
 ¡Ahhh!
 
-709
+714
 00:33:32,804 --> 00:33:33,910
 ¡Aslo, cuidado!
 
-710
+715
 00:33:46,803 --> 00:33:47,738
 ¡Quietatejo!
 
-711
+716
 00:33:57,175 --> 00:34:00,237
 ¡Ahhh!
 
-712
+717
 00:34:00,262 --> 00:34:00,867
 ¡Oh!
 
-713
+718
 00:34:27,750 --> 00:34:29,337
 ¡Qué dientes tan grandes!
 
-714
+719
 00:34:30,620 --> 00:34:32,600
 ¡Y que- y que blancos y brillantes!
 
-715
+720
 00:34:33,150 --> 00:34:35,601
 Seguro que tu comida ya te lo habrá dicho,
 pero…
 
-716
+721
 00:34:35,800 --> 00:34:37,335
 ¿Qué marca de blanqueador usas?
 
-717
+722
 00:34:37,360 --> 00:34:39,435
 Porque tienes una sonrisa radiante.
 
-718
+723
 00:34:39,459 --> 00:34:41,638
 Y ese aliento de mente recién cortada…
 
-719
+724
 00:34:42,300 --> 00:34:44,104
 ¿Y sabes otra cosa, sabes qué?
 
-720
+725
 00:34:44,457 --> 00:34:47,383
 ¡Eres, eres, eres una dragóna!
 
-721
+726
 00:34:47,408 --> 00:34:51,730
 Desde luego, eres… ¡Oh, por supuesto que
 eres una dragona!
 
-722
+727
 00:34:51,820 --> 00:34:54,699
 ¡Tú- tú razumas belleza femenina por todas tus
 escamas!
 
-723
+728
 00:34:55,926 --> 00:34:56,555
 ¿Qué te pasa?
 
-724
+729
 00:34:56,580 --> 00:34:57,761
 ¿Tienes algo en el ojo?
 
-725
+730
 00:35:01,101 --> 00:35:02,874
 Me encantaría quedarme, pero, ¿sabes?
 
-726
+731
 00:35:03,400 --> 00:35:07,209
 Soy asmático y no creo que lo nuestro
 funcione si echas anillos de humo y eso…
 
-727
+732
 00:35:07,693 --> 00:35:08,585
 ¡Shrek!
 
-728
+733
 00:35:08,728 --> 00:35:11,668
 ¡Ahhh!
 
-729
+734
 00:35:11,709 --> 00:35:14,618
 ¡Shrek! ¡Shrek!
 
-730
+735
 00:35:47,257 --> 00:35:48,646
 ¡Oh!
 
-731
+736
 00:35:48,670 --> 00:35:49,562
 ¡Despierta!
 - ¿Qué?
 
-732
+737
 00:35:49,940 --> 00:35:51,743
 ¿Eres la princesa Fiona?
 
-733
+738
 00:35:52,590 --> 00:35:53,590
 Sí, lo soy.
 
-734
+739
 00:35:54,500 --> 00:35:57,185
 ¿Y estoy aguardando a un audaz caballero
 que me salve?
 
-735
+740
 00:35:57,210 --> 00:35:58,210
 ¡Ah, qué bonito!
 
-736
+741
 00:35:58,427 --> 00:35:59,251
 ¡Andando!
 
-737
+742
 00:35:59,490 --> 00:36:00,739
 ¡Más, aguardad, Señor!
 
-738
+743
 00:36:01,480 --> 00:36:03,144
 Es nuestro primer encuentro.
 
-739
+744
 00:36:03,450 --> 00:36:07,575
 ¿No tendría que embargarnos la emoción y
 el romanticismo?
 
-740
+745
 00:36:07,600 --> 00:36:10,271
 Ya, lo siento, señorita, pero no hay tiempo.
 - ¡Ey, esperad!
 
-741
+746
 00:36:10,790 --> 00:36:12,003
 ¿Qué estáis haciendo?
 
-742
+747
 00:36:12,440 --> 00:36:14,876
 Tendríais que cogerme y
 llevarme en volandas a yen de la
 
-743
+748
 00:36:14,926 --> 00:36:17,915
 ventana y por una cuerda
 bajarme hasta vuestro raudo corcel.
 
-744
+749
 00:36:17,940 --> 00:36:20,761
 Has tenido mucho tiempo para montar todo
 ese plan, ¿no?
 
-745
+750
 00:36:24,884 --> 00:36:27,226
 ¡Pero, tenemos acordar este momento!
 
-746
+751
 00:36:27,770 --> 00:36:29,827
 ¿Podríais recitarme algún poema epica?
 
-747
+752
 00:36:30,426 --> 00:36:31,526
 ¿Una balada?
 
-748
+753
 00:36:31,976 --> 00:36:32,976
 ¿Un soneto?
 
-749
+754
 00:36:33,055 --> 00:36:34,055
 ¿Una quintilla?
 
-750
+755
 00:36:34,611 --> 00:36:35,404
 ¿O algo?
 
-751
+756
 00:36:35,430 --> 00:36:36,430
 Creo que no.
 
-752
+757
 00:36:37,581 --> 00:36:40,850
 ¿Se me concede al menos conocer el nombre
 de mi campeón?
 
-753
+758
 00:36:41,300 --> 00:36:43,133
 Eh… Shrek.
 
-754
+759
 00:36:43,950 --> 00:36:44,950
 Sere Shrek.
 
-755
+760
 00:36:47,010 --> 00:36:51,207
 Os pido que cojáis esta prenda,
 como muestra de mi gratitud.
 
-756
+761
 00:36:53,044 --> 00:36:53,756
 Gracias.
 
-757
+762
 00:36:58,751 --> 00:37:00,476
 ¿No habéis dado muerte al dragón?
 
-758
+763
 00:37:00,500 --> 00:37:01,844
 Lo tengo en tareas pendientes.
 
-759
+764
 00:37:01,870 --> 00:37:03,003
-¡Y ahora, andad! 
+¡Y ahora, andad!
 - ¡Ah!
 
-760
+765
 00:37:03,370 --> 00:37:05,036
 ¡Pero esto no se hace así!
 
-761
+766
 00:37:05,280 --> 00:37:08,116
 ¡Hay que llegar al galope espada desnuda,
 pendona al viento!
 
-762
+767
 00:37:08,460 --> 00:37:09,956
 ¡Así es como lo hicieron los otros!
 
-763
+768
 00:37:09,990 --> 00:37:10,489
 ¡Ya!
 
-764
+769
 00:37:10,515 --> 00:37:12,685
 Antes de convertirse en caballeros a la
 brasa.
 
-765
+770
 00:37:12,710 --> 00:37:14,010
 Bueno, eso es lo de menos.
 
-766
+771
 00:37:14,562 --> 00:37:15,082
 ¡Ah!
 
-767
+772
 00:37:15,530 --> 00:37:16,810
 Pero… esperad.
 
-768
+773
 00:37:16,811 --> 00:37:18,895
 ¿A dónde vais?
 La salida es por ahí.
 
-769
+774
 00:37:19,100 --> 00:37:20,451
 A salvar a mi pollino.
 
-770
+775
 00:37:20,768 --> 00:37:21,208
 ¡Ah!
 
-771
+776
 00:37:21,570 --> 00:37:23,810
 ¿Qué clase de caballero sois vos?
 
-772
+777
 00:37:24,500 --> 00:37:26,051
 Soy único en mi especie.
 
-773
+778
 00:37:33,610 --> 00:37:34,940
 Llámame anticuado, si quieres.
 
-774
+779
 00:37:35,840 --> 00:37:39,748
 No quisiera embarcarme a tope en una
 relación física.
 
-775
+780
 00:37:40,030 --> 00:37:42,942
 No estoy emocionalmente preparado para un
 compromiso de esa…
 
-776
+781
 00:37:43,740 --> 00:37:44,200
 ¡...magnitud!
 
-777
+782
 00:37:44,520 --> 00:37:45,775
 Esa es la palabra que buscaba.
 
-778
+783
 00:37:45,799 --> 00:37:46,506
 ¡Magnitud!
 
-779
+784
 00:37:46,620 --> 00:37:47,137
 ¡Ah!
 
-780
+785
 00:37:47,290 --> 00:37:49,213
 ¡Eso es contacto físico no deseado!
 
-781
+786
 00:37:49,919 --> 00:37:51,122
 ¡Ah! ¿Qué haces?
 
-782
+787
 00:37:51,600 --> 00:37:52,654
 Vale, vale, vale, vale.
 
-783
+788
 00:37:52,680 --> 00:37:54,754
 Rebobinemos y vayamos pasito a paso.
 
-784
+789
 00:37:55,220 --> 00:37:57,435
 Mira, antes deberíamos conocernos un poco.
 
-785
+790
 00:37:57,460 --> 00:37:58,460
 No sé, como amigos.
 
-786
+791
 00:37:58,480 --> 00:38:00,395
 A lo mejor podríamos escribirnos.
 
-787
+792
 00:38:00,420 --> 00:38:01,235
 Yo viajo mucho.
 
-788
+793
 00:38:01,260 --> 00:38:02,694
 Me encanta recibir postales.
 
-789
+794
 00:38:02,720 --> 00:38:06,000
 Oye, a mí me encantaría quedarme aquí,
 pero…
 
-790
+795
 00:38:06,400 --> 00:38:07,134
 ¡No hagas eso!
 
-791
+796
 00:38:07,160 --> 00:38:09,035
 Es mi cola personal e intransferible.
 
-792
+797
 00:38:09,060 --> 00:38:10,134
 Me la vas a arrancar.
 
-793
+798
 00:38:10,160 --> 00:38:12,045
 No te permito que… ¿ehh?
 
-794
+799
 00:38:12,070 --> 00:38:13,114
 ¿Qué piensas hacer?
 
-795
+800
 00:38:13,140 --> 00:38:13,815
 ¡Oh, no!
 
-796
+801
 00:38:13,840 --> 00:38:14,464
 Ni hablar.
 
-797
+802
 00:38:14,490 --> 00:38:15,280
 Ni lo sueñes.
 
-798
+803
 00:38:15,440 --> 00:38:15,937
 ¡No!
 
-799
+804
 00:38:16,440 --> 00:38:17,895
 ¡No, no no no no no!
 
-800
+805
 00:38:17,920 --> 00:38:18,920
 ¡Ah!
 
-801
+806
 00:38:45,216 --> 00:38:46,055
 ¡Ah!
 
-802
+807
 00:38:46,176 --> 00:38:47,458
 ¡Hola, Princesa!
 - ¡Hola!
 
-803
+808
 00:38:47,483 --> 00:38:49,674
 Sí, lo difícil es que esté calladito.
 
-804
+809
 00:38:49,699 --> 00:38:50,770
 ¡Ah!
 
-805
+810
 00:39:01,106 --> 00:39:02,702
 ¡Oww!
 
-806
+811
 00:39:27,299 --> 00:39:29,023
 Bien. ¡Vosotros dos a la salida!
 
-807
+812
 00:39:31,320 --> 00:39:32,718
 Yo me ocuparé del dragón.
 
-808
+813
 00:39:38,460 --> 00:39:46,205
 ¡Corred!
 
-809
+814
 00:39:59,870 --> 00:40:00,676
 ¡Ah!
 
-810
+815
 00:40:29,950 --> 00:40:31,120
 ¡Lo conseguisteis!
 
-811
+816
 00:40:31,680 --> 00:40:33,819
 ¡Me habéis rescatado, caballero!
 
-812
+817
 00:40:33,845 --> 00:40:35,461
 ¡Sois maravilloso!
 
-813
+818
 00:40:35,485 --> 00:40:36,623
 ¡Sois…!
 
-814
+819
 00:40:38,000 --> 00:40:40,880
 ...poco ortodoxo, hay que reconocerlo,
 pero…
 
-815
+820
 00:40:41,280 --> 00:40:43,384
 grande es vuestra hazaña.
 
-816
+821
 00:40:43,409 --> 00:40:44,902
 Y puro es vuestro corazón.
 
-817
+822
 00:40:45,460 --> 00:40:47,671
 Mi deuda es eterna con vos.
 
-818
+823
 00:40:49,761 --> 00:40:53,581
 ¿Y qué sería de tan valeroso caballero sin
 su noble corcel?
 
-819
+824
 00:40:53,605 --> 00:40:54,857
 Ya puedes tomar buena nota.
 
-820
+825
 00:40:54,882 --> 00:40:56,320
 Me ha llamado noble corcel.
 
-821
+826
 00:40:56,800 --> 00:40:58,133
 ¿Cree que soy un corcel?
 
-822
+827
 00:40:59,770 --> 00:41:01,330
 Ganada está la batalla.
 
-823
+828
 00:41:01,780 --> 00:41:04,152
 Podéis quitaros vuestro yelmo,
 ser caballero.
 
-824
+829
 00:41:04,177 --> 00:41:05,502
 Ah, no.
 
-825
+830
 00:41:06,014 --> 00:41:06,710
 ¿Por qué no?
 
-826
+831
 00:41:07,975 --> 00:41:09,203
 El casco me deja marca.
 
-827
+832
 00:41:09,410 --> 00:41:12,654
 Por favor, cuan desearía ver el rostro de
 mi salvador.
 
-828
+833
 00:41:12,680 --> 00:41:13,200
 No, no, no.
 
-829
+834
 00:41:13,380 --> 00:41:14,840
 Nada de cuan, no.
 
-830
+835
 00:41:15,300 --> 00:41:16,300
 Pero…
 
-831
+836
 00:41:16,520 --> 00:41:17,775
 ¿cómo vais a besarme?
 
-832
+837
 00:41:17,800 --> 00:41:18,634
 ¿Qué?
 
-833
+838
 00:41:19,910 --> 00:41:21,655
 Eso no estaba en la orden de trabajo.
 
-834
+839
 00:41:22,320 --> 00:41:23,453
 Quizá sea un plus.
 
-835
+840
 00:41:24,050 --> 00:41:25,680
 No, es el destino.
 
-836
+841
 00:41:26,020 --> 00:41:28,502
 Vos debéis saber en qué consiste.
 
-837
+842
 00:41:28,540 --> 00:41:31,581
 Una princesa encerrada
 en una torre y prisionera
 
-838
+843
 00:41:31,582 --> 00:41:35,198
 de un dragón es rescatada
 por un audaz caballero.
 
-839
+844
 00:41:35,440 --> 00:41:38,948
 Y luego los dos comparten su primer beso
 de amor.
 
-840
+845
 00:41:39,370 --> 00:41:40,370
 ¿Con Shrek?
 
-841
+846
 00:41:40,620 --> 00:41:41,760
 ¡Que tú, alto, alto, alto!
 
-842
+847
 00:41:42,200 --> 00:41:43,620
 ¿Tú crees que Shrek es tu amor?
 
-843
+848
 00:41:44,339 --> 00:41:45,009
 Pues…
 
-844
+849
 00:41:45,561 --> 00:41:46,283
 sí.
 
-845
+850
 00:41:48,043 --> 00:41:52,622
 ¡Ajajajaja!
 
-846
+851
 00:41:52,760 --> 00:41:54,700
 No veo dónde está la gracia.
 
-847
+852
 00:41:55,455 --> 00:41:57,973
 Digamos que no soy tu tipo, ¿de acuerdo?
 
-848
+853
 00:41:58,050 --> 00:41:59,625
 Desde luego que lo sois.
 
-849
+854
 00:41:59,650 --> 00:42:00,973
 Vos sois mi salvador.
 
-850
+855
 00:42:01,480 --> 00:42:03,736
 Ahora, quitaos el yelmo.
 
-851
+856
 00:42:03,890 --> 00:42:06,475
 Oye, en serio, no creo que sea una buena
 idea.
 
-852
+857
 00:42:06,500 --> 00:42:07,594
 Quitaos el yelmo.
 
-853
+858
 00:42:07,620 --> 00:42:08,755
 No pienso hacerlo.
 
-854
+859
 00:42:08,780 --> 00:42:09,479
 Quitáoslo.
 
-855
+860
 00:42:09,504 --> 00:42:10,557
 ¡No!
 - ¡Ahora!
 
-856
+861
 00:42:10,570 --> 00:42:11,500
 ¡De acuerdo!
 
-857
+862
 00:42:11,525 --> 00:42:15,713
 Tranquila, como vos ordenéis, alteza.
 
-858
+863
 00:42:27,220 --> 00:42:29,986
 Tú eres un ogro.
 
-859
+864
 00:42:31,140 --> 00:42:34,298
 Oh, tú esperabas un príncipe de verdad.
 
-860
+865
 00:42:34,327 --> 00:42:36,781
 Pues sí, reconozco que…
 
-861
+866
 00:42:39,180 --> 00:42:41,484
 No, todo me sale mal.
 
-862
+867
 00:42:41,780 --> 00:42:43,384
 Tú no deberías ser un ogro.
 
-863
+868
 00:42:45,300 --> 00:42:48,520
 Princesa, he venido a rescatarte por orden
 de Lord Farquaad.
 
-864
+869
 00:42:48,620 --> 00:42:49,438
 ¿De acuerdo?
 
-865
+870
 00:42:49,640 --> 00:42:51,374
 Él es quien quiere casarse contigo.
 
-866
+871
 00:42:51,555 --> 00:42:53,417
 ¿Y por qué no vino él a rescatarme?
 
-867
+872
 00:42:54,010 --> 00:42:55,010
 Buena pregunta.
 
-868
+873
 00:42:55,080 --> 00:42:56,480
 Pregúntaselo cuando lleguemos.
 
-869
+874
 00:42:57,733 --> 00:43:00,071
 Pero yo debía ser rescatada por mi
 enamorado.
 
-870
+875
 00:43:01,070 --> 00:43:03,526
 No por un ogro y su mascota.
 
-871
+876
 00:43:03,970 --> 00:43:06,055
 ¿Qué ha pasado con el noble corcelo?
 
-872
+877
 00:43:06,080 --> 00:43:08,714
 Oye, Princesa, no me compliques más el
 trabajo.
 
-873
+878
 00:43:08,740 --> 00:43:11,260
 Pues lo siento, pero tu trabajo no es mi
 problema.
 
-874
+879
 00:43:12,220 --> 00:43:15,587
 Ya puedes ir a decirle al Lord
 Farquaad que si de verdad quiere
 
-875
+880
 00:43:15,588 --> 00:43:19,459
 rescatarme como es debido,
 estaré esperándole aquí sentada.
 
-876
+881
 00:43:20,100 --> 00:43:23,008
 Eh, yo no soy el mensajero de nadie,
 ¿de acuerdo?
 
-877
+882
 00:43:23,380 --> 00:43:24,850
 Yo soy el repartidor.
 
-878
+883
 00:43:25,230 --> 00:43:26,537
 Ni se te ocurra.
 
-879
+884
 00:43:27,340 --> 00:43:28,138
 ¡Ah!
 
-880
+885
 00:43:28,320 --> 00:43:29,844
 ¿Vienes, Asno?
 - ¡Cuentame!
 
-881
+886
 00:43:29,870 --> 00:43:31,134
 ¡Oh, soy tu sombra!
 
-882
+887
 00:43:31,570 --> 00:43:34,795
 ¡Bájame ahora mismo o sufrirás las
 consecuencias!
 
-883
+888
 00:43:35,300 --> 00:43:36,815
 ¡Esto es humillante!
 
-884
+889
 00:43:36,840 --> 00:43:37,840
 ¡Bájame!
 
-885
+890
 00:43:38,373 --> 00:43:39,170
 ¡Ah!
 
-886
+891
 00:43:41,610 --> 00:43:42,716
 Vale, otra pregunta.
 
-887
+892
 00:43:43,100 --> 00:43:44,548
 Tú le molas a una mujer, ¿vale?
 
-888
+893
 00:43:44,590 --> 00:43:45,888
 Pero ella a ti para nada.
 
-889
+894
 00:43:46,180 --> 00:43:49,893
 ¿Qué tiene que hacer uno para que lo pilles
 y no ofenderse y no te hace y se te coma?
 
-890
+895
 00:43:50,060 --> 00:43:51,060
 ¿Qué haces?
 
-891
+896
 00:43:51,260 --> 00:43:53,289
 Decirle que no es tu amor verdadero.
 
-892
+897
 00:43:53,785 --> 00:43:56,472
 Todo el mundo sabe lo que
 pasa cuando encuentras a… ¡oh!
 
-893
+898
 00:43:56,780 --> 00:43:57,780
 ¡Ey!
 
-894
+899
 00:43:58,260 --> 00:43:59,260
 ¡Oh!
 
-895
+900
 00:43:59,740 --> 00:44:01,435
 ¡Qué ganas tengo de llegar a Duloc!
 
-896
+901
 00:44:01,460 --> 00:44:02,103
 ¡Oh, sí!
 
-897
+902
 00:44:02,128 --> 00:44:03,580
 ¡Te va a encantar, Princesa!
 
-898
+903
 00:44:03,581 --> 00:44:04,581
 ¡Es precioso!
 
-899
+904
 00:44:04,670 --> 00:44:07,255
 ¿Y cómo es mi prometido, Lord Farquaad?
 
-900
+905
 00:44:07,280 --> 00:44:08,033
 ¿Qué tal es?
 
-901
+906
 00:44:08,100 --> 00:44:09,860
 Bien.
 Pongamos las cosas en su sitio.
 
-902
+907
 00:44:10,078 --> 00:44:10,582
 ¡Oh!
 
-903
+908
 00:44:11,010 --> 00:44:13,580
 No se puede decir precisamente que sea…
 
-904
+909
 00:44:14,030 --> 00:44:15,396
 alto de miras.
 
-905
+910
 00:44:15,421 --> 00:44:16,040
 ¡Je, je, je!
 
-906
+911
 00:44:16,420 --> 00:44:17,555
 Yo no lo sé.
 
-907
+912
 00:44:17,580 --> 00:44:19,840
 Pero hay quien dice de él que no da la
 talla.
 
-908
+913
 00:44:20,955 --> 00:44:23,085
 ¡Ja, ja, ja, ja, ja!
 
-909
+914
 00:44:23,110 --> 00:44:24,000
 ¡Basta!
 
-910
+915
 00:44:24,120 --> 00:44:25,467
 ¡Basta inmediatamente!
 
-911
+916
 00:44:25,812 --> 00:44:27,835
 Lo que ocurre es que estás
 celoso porque nunca podrías
 
-912
+917
 00:44:27,860 --> 00:44:30,708
 medirte con un gran
 gobernante como Lord Farquaad.
 
-913
+918
 00:44:30,940 --> 00:44:31,495
 Sí.
 
-914
+919
 00:44:31,740 --> 00:44:33,465
 Quizá tenga razón, Princesa.
 
-915
+920
 00:44:33,790 --> 00:44:35,140
 Pero es mejor que tú le…
 
-916
+921
 00:44:35,393 --> 00:44:37,265
 midas cuando le veas mañana.
 
-917
+922
 00:44:37,520 --> 00:44:38,520
 ¡¿Mañana?!
 
-918
+923
 00:44:40,230 --> 00:44:41,389
 ¿Tanto tardaremos?
 
-919
+924
 00:44:41,440 --> 00:44:42,060
 Ah…
 
-920
+925
 00:44:42,210 --> 00:44:43,380
 ¿No- no deberíamos acampar?
 
-921
+926
 00:44:43,460 --> 00:44:44,122
 No.
 
-922
+927
 00:44:44,320 --> 00:44:45,745
 Eso nos retrasaría más.
 
-923
+928
 00:44:46,420 --> 00:44:47,516
 Continuaremos.
 
-924
+929
 00:44:47,920 --> 00:44:50,626
 Pero en el bosque hay bandidos.
 
-925
+930
 00:44:51,296 --> 00:44:52,470
 ¡Tiempo muerto! ¡Alto!
 
-926
+931
 00:44:52,495 --> 00:44:54,114
 ¡Esa idea de acampar me ha gustado!
 
-927
+932
 00:44:54,318 --> 00:44:55,306
 ¡Eh, vamos!
 
-928
+933
 00:44:55,331 --> 00:44:56,995
 ¡Asustando no me gana nadie!
 
-929
+934
 00:44:57,020 --> 00:44:58,242
 Ni aquí ni en el bosque.
 
-930
+935
 00:44:58,380 --> 00:44:59,085
 ¡Basta!
 
-931
+936
 00:44:59,110 --> 00:45:00,930
 ¡Quiero acampar a la de ya!
 
-932
+937
 00:45:07,740 --> 00:45:08,335
 ¡Ey!
 
-933
+938
 00:45:08,360 --> 00:45:09,360
 ¡Por aquí!
 
-934
+939
 00:45:10,275 --> 00:45:11,873
 Shrek, busquemos algo mejor.
 
-935
+940
 00:45:12,290 --> 00:45:13,714
 Esto no es para una princesa.
 
-936
+941
 00:45:13,820 --> 00:45:14,206
 ¡Ah!
 
-937
+942
 00:45:14,640 --> 00:45:15,735
 No, no, es perfecto.
 
-938
+943
 00:45:15,970 --> 00:45:17,401
 Le daré un toque hogareño.
 
-939
+944
 00:45:18,060 --> 00:45:19,290
 ¿Un toque hogareño?
 
-940
+945
 00:45:19,579 --> 00:45:20,646
 ¿Como cual?
 
-941
+946
 00:45:22,800 --> 00:45:23,800
 ¿Una puerta?
 
-942
+947
 00:45:24,519 --> 00:45:26,695
 Bien, caballeros.
 Os deseo buenas noches.
 
-943
+948
 00:45:26,840 --> 00:45:28,375
 Entro y teleuncuento para dormir.
 
-944
+949
 00:45:28,400 --> 00:45:29,474
 ¡Se me da muy bien!
 
-945
+950
 00:45:29,660 --> 00:45:30,782
 ¡He dicho buenas noches!
 
-946
+951
 00:45:34,485 --> 00:45:35,596
 ¿Pero tú qué haces?
 
-947
+952
 00:45:36,060 --> 00:45:37,454
 ¡Je, je, je!
 
-948
+953
 00:45:37,760 --> 00:45:39,335
 Pues… ¡oh, vamos!
 
-949
+954
 00:45:39,360 --> 00:45:40,450
 ¡Era una broma!
 
-950
+955
 00:45:47,058 --> 00:45:52,805
 Y esa, esa de ahí, esa es Throwback, el
 único ogro capaz de tirar un escupitajo
 
-951
+956
 00:45:52,829 --> 00:45:54,586
 a tres trigales de distancia.
 
-952
+957
 00:45:54,660 --> 00:45:55,414
 ¡Claro!
 
-953
+958
 00:45:55,740 --> 00:45:56,537
 ¡Sí!
 
-954
+959
 00:45:58,649 --> 00:46:00,516
 ¿Sabrías leer mi futuro en las estrellas?
 
-955
+960
 00:46:00,540 --> 00:46:02,755
 Las estrellas no predicen el futuro, Asno.
 
-956
+961
 00:46:02,780 --> 00:46:03,950
 Cuentan historias.
 
-957
+962
 00:46:04,350 --> 00:46:06,882
 Mira, ahí está Bloodnut, El Flatulento.
 
-958
+963
 00:46:07,760 --> 00:46:09,434
 ¿Adivinas por qué se hizo famoso?
 
-959
+964
 00:46:09,850 --> 00:46:11,422
 Vale, tío, sé que te lo inventas.
 
-960
+965
 00:46:11,780 --> 00:46:13,882
 No, mira, es ese de ahí.
 
-961
+966
 00:46:14,260 --> 00:46:17,266
 Y esos son los cazadores que escapan de su
 pestazo.
 
-962
+967
 00:46:17,590 --> 00:46:19,460
 Mira, tronco, solo son puntitos.
 
-963
+968
 00:46:19,720 --> 00:46:20,975
 ¿Sabes, Asno?
 
-964
+969
 00:46:21,100 --> 00:46:23,435
 A veces las cosas son más de lo que
 aparentan.
 
-965
+970
 00:46:24,090 --> 00:46:24,929
 ¿Hmm?
 
-966
+971
 00:46:26,580 --> 00:46:27,580
 Olvídalo.
 
-967
+972
 00:46:32,220 --> 00:46:35,128
 Oye, ¿qué haremos cuando recuperemos
 nuestra ciénaga?
 
-968
+973
 00:46:35,584 --> 00:46:36,792
 ¿Nuestra ciénaga?
 
-969
+974
 00:46:36,870 --> 00:46:39,123
 Cuando acabemos el rescate, la princesa y
 todo el rollo.
 
-970
+975
 00:46:39,280 --> 00:46:39,835
 ¿Cómo?
 
-971
+976
 00:46:40,230 --> 00:46:43,154
 Asno, no hay un nosotros, no hay un
 nuestro.
 
-972
+977
 00:46:43,180 --> 00:46:45,593
 Aquí solo estamos mi ciénaga y yo.
 
-973
+978
 00:46:46,450 --> 00:46:49,682
 Y además pienso levantar un muro de tres
 metros para acercarla.
 
-974
+979
 00:46:51,840 --> 00:46:53,031
 Me has hecho daño, eh.
 
-975
+980
 00:46:53,290 --> 00:46:54,815
 Acabas de hacerme mucho daño.
 
-976
+981
 00:46:56,960 --> 00:46:57,960
 ¿Sabes lo que pienso?
 
-977
+982
 00:46:58,280 --> 00:47:01,719
 Pienso que con esa idea del muro solo
 conseguirás que no entre nadie allí.
 
-978
+983
 00:47:01,952 --> 00:47:02,381
 No.
 
-979
+984
 00:47:02,680 --> 00:47:03,680
 ¿Tú crees?
 
-980
+985
 00:47:05,240 --> 00:47:06,240
 ¿Ocultas algo?
 
-981
+986
 00:47:06,330 --> 00:47:07,440
 Anda, olvídalo, Asno.
 
-982
+987
 00:47:08,900 --> 00:47:11,680
 Ah, esto tiene que ver con lo de las
 cebollas.
 
-983
+988
 00:47:11,820 --> 00:47:15,424
 No, esto tiene que ver con lo de olvídalo
 y no toques las narices.
 
-984
+989
 00:47:15,607 --> 00:47:16,676
 ¿Por qué no quieres hablar de ello?
 
-985
+990
 00:47:16,700 --> 00:47:18,977
 Porque tú sí que quieres hablar de ello.
 
-986
+991
 00:47:19,020 --> 00:47:20,015
 ¿Por qué te reprimes?
 
-987
+992
 00:47:20,040 --> 00:47:21,072
 Yo no me reprimo.
 
-988
+993
 00:47:21,300 --> 00:47:21,760
 Jo', que no.
 
-989
+994
 00:47:21,814 --> 00:47:23,181
 Asno, te estás pasando.
 
-990
+995
 00:47:23,490 --> 00:47:25,039
 ¿A quién presentes a pasar? ¿A quién?
 
-991
+996
 00:47:25,200 --> 00:47:26,200
 ¡A todo el mundo!
 
-992
+997
 00:47:26,260 --> 00:47:27,260
 ¿Vale?
 
-993
+998
 00:47:28,125 --> 00:47:30,600
 Ahora empezamos a hablar clarito.
 
-994
+999
 00:47:30,601 --> 00:47:32,407
 ¡Ay, por el amor del cielo!
 
-995
+1000
 00:47:33,710 --> 00:47:35,046
 ¿Cuál es tu problema, tío?
 
-996
+1001
 00:47:35,071 --> 00:47:36,634
 ¿Qué tienes tú contra el mundo, eh?
 
-997
+1002
 00:47:36,660 --> 00:47:38,985
 Oye, yo no tengo ningún problema, ¿vale?
 
-998
+1003
 00:47:39,010 --> 00:47:41,452
 Es el mundo el que parece tener un
 problema conmigo.
 
-999
+1004
 00:47:42,145 --> 00:47:43,795
 Toda la gente, en cuanto me ve, grita.
 
-1000
+1005
 00:47:43,820 --> 00:47:45,642
 ¡Ah, socorro, corred!
 
-1001
+1006
 00:47:45,840 --> 00:47:48,205
 ¡Mirad a ese ogro feo y tontorrón!
 
-1002
+1007
 00:47:50,650 --> 00:47:52,766
 No me conocen y se atreven a juzgarme.
 
-1003
+1008
 00:47:54,070 --> 00:47:55,685
 Por eso estoy mejor solo.
 
-1004
+1009
 00:48:04,980 --> 00:48:07,300
 ¿Sabes qué?
 Cuando te vi…
 
-1005
+1010
 00:48:08,100 --> 00:48:10,018
 yo no pensé que fueras feo y tontorrón.
 
-1006
+1011
 00:48:11,840 --> 00:48:13,101
 Ya lo sé.
 
-1007
+1012
 00:48:15,440 --> 00:48:16,349
 Y…
 
-1008
+1013
 00:48:16,750 --> 00:48:17,958
 ¿hay algunas no hay arriba?
 
-1009
+1014
 00:48:18,718 --> 00:48:20,225
 Bueno, está…
 
-1010
+1015
 00:48:20,600 --> 00:48:21,600
 charlatán.
 
-1011
+1016
 00:48:21,870 --> 00:48:23,700
 El pequeño y paliza.
 
-1012
+1017
 00:48:24,280 --> 00:48:25,904
 Ah, sí, sí, ya la veo.
 
-1013
+1018
 00:48:25,930 --> 00:48:28,002
 Es esa grande y redonda, la de delante,
 ¿no?
 
-1014
+1019
 00:48:29,470 --> 00:48:30,635
 Eso es la luna.
 
-1015
+1020
 00:48:30,794 --> 00:48:31,616
 Ah.
 
-1016
+1021
 00:48:54,500 --> 00:48:56,377
 Vamos, muéstramela otra vez.
 
-1017
+1022
 00:49:00,850 --> 00:49:01,850
 Espejo, espejito.
 
-1018
+1023
 00:49:01,880 --> 00:49:02,697
 Muéstramela.
 
-1019
+1024
 00:49:02,860 --> 00:49:04,300
 Quiero ver a la princesa.
 
-1020
+1025
 00:49:10,933 --> 00:49:12,189
 Perfecta.
 
-1021
+1026
 00:50:18,540 --> 00:50:19,971
 Sabes que me encanta.
 
-1022
+1027
 00:50:20,569 --> 00:50:21,614
 Vamos, muñeca.
 
-1023
+1028
 00:50:21,640 --> 00:50:23,504
-Súbete a mi silla y cabalga... 
+Súbete a mi silla y cabalga...
 - ¡Aslo!
 
-1024
+1029
 00:50:23,990 --> 00:50:24,723
 ¡Despierta!
 
-1025
+1030
 00:50:24,920 --> 00:50:25,961
 ¡Despierta!
 
-1026
+1031
 00:50:27,770 --> 00:50:29,081
 ¿Qué?
 - Buenos días.
 
-1027
+1032
 00:50:31,021 --> 00:50:32,101
 ¿Cómo os gustan los huevos?
 
-1028
+1033
 00:50:32,560 --> 00:50:34,614
 Buenos días, Princesa.
 
-1029
+1034
 00:50:34,640 --> 00:50:35,190
 ¿Qué…?
 
-1030
+1035
 00:50:35,215 --> 00:50:36,215
 ¿Qué estás haciendo?
 
-1031
+1036
 00:50:36,290 --> 00:50:40,100
 Bueno, sé que ayer no empezamos
 precisamente con buen pie y…
 
-1032
+1037
 00:50:40,700 --> 00:50:41,986
 quería compensártelo.
 
-1033
+1038
 00:50:42,360 --> 00:50:43,740
 Verás, al fin y al cabo…
 
-1034
+1039
 00:50:44,590 --> 00:50:45,707
 tú me has rescatado.
 
-1035
+1040
 00:50:48,232 --> 00:50:49,232
 Gracias.
 
-1036
+1041
 00:50:49,960 --> 00:50:51,082
 Venga, a comer.
 
-1037
+1042
 00:50:51,610 --> 00:50:53,658
 Hoy nos espera un largo día.
 
-1038
+1043
 00:50:59,035 --> 00:50:59,810
 ¡Brrp!
 
-1039
+1044
 00:51:00,170 --> 00:51:02,221
 ¡Shrek!
 - ¿Qué? Es un cumplido.
 
-1040
+1045
 00:51:02,550 --> 00:51:04,721
 Yo digo, mejor fuera que dentro.
 
-1041
+1046
 00:51:05,420 --> 00:51:07,228
 Eso no se hace delante de una princesa.
 
-1042
+1047
 00:51:07,253 --> 00:51:08,090
 ¡Brrp!
 
-1043
+1048
 00:51:09,120 --> 00:51:10,120
 Gracias.
 
-1044
+1049
 00:51:10,740 --> 00:51:11,980
 Ahora vas y lo cascas.
 
-1045
+1050
 00:51:12,940 --> 00:51:13,940
 ¿Sabes?
 
-1046
+1051
 00:51:14,800 --> 00:51:17,033
 No eres exactamente como imaginaba.
 
-1047
+1052
 00:51:17,345 --> 00:51:20,910
 Bueno, quizá no deberías juzgar a alguien
 antes de conocerle.
 
-1048
+1053
 00:51:24,800 --> 00:51:26,845
 ¡La liberte!
 
-1049
+1054
 00:51:26,870 --> 00:51:27,456
 ¡Ey!
 
-1050
+1055
 00:51:27,480 --> 00:51:28,480
 ¡Princesa!
 
-1051
+1056
 00:51:30,129 --> 00:51:31,007
 ¿Pero qué?
 
-1052
+1057
 00:51:31,085 --> 00:51:32,149
 ¿Qué estás haciendo?
 
-1053
+1058
 00:51:32,174 --> 00:51:35,129
 Tranquila, maserí, pues yo soy tu
 salvador.
 
-1054
+1059
 00:51:35,270 --> 00:51:37,781
 Y te he rescatado de las manasas de esa.
 
-1055
+1060
 00:51:39,988 --> 00:51:41,020
 Bestia.
 
-1056
+1061
 00:51:41,740 --> 00:51:42,416
 ¡Ey!
 
-1057
+1062
 00:51:42,440 --> 00:51:43,500
 Esa es mi princesa.
 
-1058
+1063
 00:51:43,620 --> 00:51:44,758
 Tú búscate a otra.
 
-1059
+1064
 00:51:45,248 --> 00:51:46,668
 Por favor, monstruo.
 
-1060
+1065
 00:51:46,820 --> 00:51:49,944
 ¿Acaso no ves que estoy aquí un poquito
 ocupado?
 
-1061
+1066
 00:51:50,280 --> 00:51:51,072
 Oiga, amigo.
 
-1062
+1067
 00:51:51,766 --> 00:51:53,380
 No sé quién se ha creído que es.
 
-1063
+1068
 00:51:53,500 --> 00:51:55,114
 Mon dieu, qué rudo.
 
-1064
+1069
 00:51:56,200 --> 00:51:58,117
 Por favor, deja que me presente.
 
-1065
+1070
 00:51:58,399 --> 00:51:59,968
 ¡Hombres alegres!
 
-1066
+1071
 00:52:00,594 --> 00:52:01,918
 ¡Ja, ja ja ja ja!
 
-1067
+1072
 00:52:07,662 --> 00:52:08,656
 Voy a los pobres.
 
-1068
+1073
 00:52:08,680 --> 00:52:09,594
 Robo a los ricos.
 
-1069
+1074
 00:52:09,620 --> 00:52:10,714
 Se queda un porcentaje.
 
-1070
+1075
 00:52:10,740 --> 00:52:11,654
 Tan solo el pico.
 
-1071
+1076
 00:52:11,680 --> 00:52:12,909
 Rescato de mis celas.
 
-1072
+1077
 00:52:13,004 --> 00:52:13,654
 ¡Qué virtud!
 
-1073
+1078
 00:52:13,680 --> 00:52:14,680
 ¡Es genial!
 
-1074
+1079
 00:52:14,720 --> 00:52:15,855
 ¡Es cierto!
 
-1075
+1080
 00:52:15,880 --> 00:52:16,880
 A bailar.
 
-1076
+1081
 00:52:20,582 --> 00:52:21,565
 Me encanta pelear.
 
-1077
+1082
 00:52:21,590 --> 00:52:22,765
 Y a las mozas conocer.
 
-1078
+1083
 00:52:22,790 --> 00:52:24,526
 Lo que dice de verdad es que lo suyo es
 gobo.
 
-1079
+1084
 00:52:24,550 --> 00:52:25,025
 ¡Vial!
 
-1080
+1085
 00:52:25,050 --> 00:52:25,745
 ¡Oh!
 
-1081
+1086
 00:52:25,770 --> 00:52:27,944
 Cuando logro del lugar, toca bella sin
 cesar.
 
-1082
+1087
 00:52:27,970 --> 00:52:28,636
 ¡Qué mal!
 
-1083
+1088
 00:52:28,672 --> 00:52:30,172
 ¡Qué mal! ¡Qué mal! ¡Qué mal!
 
-1084
+1089
 00:52:30,211 --> 00:52:32,966
 Que una bestia de que así a mí me pone fatal.
 
-1085
+1090
 00:52:32,991 --> 00:52:33,596
 ¡Fatal!
 
-1086
+1091
 00:52:33,620 --> 00:52:34,350
 ¡Este tío está fatal!
 
-1087
+1092
 00:52:34,351 --> 00:52:36,702
 ¡Con mi daga piel te voy a atravesar!
 
-1088
+1093
 00:52:36,727 --> 00:52:37,260
 ¡Atención!
 
-1089
+1094
 00:52:37,285 --> 00:52:41,415
 ¡Observad que voy a empezar!
 
-1090
+1095
 00:52:43,285 --> 00:52:44,401
 ¡Yahú!
 
-1091
+1096
 00:52:48,070 --> 00:52:49,373
 ¡Qué plasta de tío!
 
-1092
+1097
 00:52:49,800 --> 00:52:51,023
 ¡Oh, sejas!
 
-1093
+1098
 00:53:19,400 --> 00:53:20,800
 Em, ¿nos vamos?
 
-1094
+1099
 00:53:23,110 --> 00:53:24,210
 ¡Jócol a Princesa!
 
-1095
+1100
 00:53:27,700 --> 00:53:28,895
 ¡Oye, oye, oye!
 
-1096
+1101
 00:53:28,920 --> 00:53:29,775
 ¡Para un momento!
 
-1097
+1102
 00:53:29,800 --> 00:53:30,855
 ¿Cómo has hecho eso?
 
-1098
+1103
 00:53:30,880 --> 00:53:31,455
 ¿El qué?
 
-1099
+1104
 00:53:31,480 --> 00:53:32,981
 Eso… lo de antes…
 
-1100
+1105
 00:53:33,006 --> 00:53:34,390
 ¡Ha sido increíble!
 
-1101
+1106
 00:53:34,770 --> 00:53:36,202
 ¿Dónde has aprendido a hacerlo?
 
-1102
+1107
 00:53:36,226 --> 00:53:37,000
 Bueno…
 
-1103
+1108
 00:53:38,250 --> 00:53:42,080
 cuando una vive sola, tiene que aprender
 ciertas cosas por si alguien…
 
-1104
+1109
 00:53:42,608 --> 00:53:44,015
 ¡Tienes una flecha en el pandero!
 
-1105
+1110
 00:53:44,040 --> 00:53:44,736
 ¿Qué?
 
-1106
+1111
 00:53:45,450 --> 00:53:46,627
 ¿Quién iba a decirlo?
 
-1107
+1112
 00:53:46,779 --> 00:53:47,737
 ¡Oh, no!
 
-1108
+1113
 00:53:47,996 --> 00:53:49,174
 ¡Ha sido por mi culpa!
 
-1109
+1114
 00:53:49,200 --> 00:53:50,455
 ¡Lo siento mucho!
 - ¿Qué pasa?
 
-1110
+1115
 00:53:50,480 --> 00:53:51,560
 ¡Está herido!
 
-1111
+1116
 00:53:51,760 --> 00:53:53,235
 ¿Qué está herido?
 ¡Está herido!
 
-1112
+1117
 00:53:53,260 --> 00:53:54,719
 ¡Oh, no!
 ¡Se nos muere!
 
-1113
+1118
 00:53:54,745 --> 00:53:56,114
 Asno, no pasa nada.
 
-1114
+1119
 00:53:56,140 --> 00:53:57,194
 ¡No me hagas esto!
 
-1115
+1120
 00:53:57,220 --> 00:53:58,535
 ¡Soy muy joven para que mueras!
 
-1116
+1121
 00:53:58,560 --> 00:53:59,475
 ¡Las piernas en alto!
 
-1117
+1122
 00:53:59,500 --> 00:54:00,500
 ¡Di 33!
 
-1118
+1123
 00:54:00,550 --> 00:54:02,269
 ¡Que a alguien le haga un torniquete!
 - ¡Asno!
 
-1119
+1124
 00:54:02,778 --> 00:54:05,384
 ¿Quieres calmarte si de verdad
 quieres ayudar a Shrek?
 
-1120
+1125
 00:54:05,410 --> 00:54:08,410
 Entra en el bosque y tráeme una flor azul
 con espinas rojas.
 
-1121
+1126
 00:54:08,435 --> 00:54:09,455
 ¡Flora azul, espinas rojas!
 
-1122
+1127
 00:54:09,480 --> 00:54:10,255
 ¡Está chupado!
 
-1123
+1128
 00:54:10,280 --> 00:54:12,280
 ¡Flora azul, espinas rojas!
 ¡Flora azul, espinas rojas!
 
-1124
+1129
 00:54:12,300 --> 00:54:13,110
 ¡No te mueras!
 
-1125
+1130
 00:54:13,135 --> 00:54:15,601
 ¡Y si ves un largo túnel, aléjate del
 resplandor!
 
-1126
+1131
 00:54:15,660 --> 00:54:16,480
 ¡Asno!
 - ¡Asno!
 
-1127
+1132
 00:54:16,660 --> 00:54:17,386
 ¡Ah, sí!
 
-1128
+1133
 00:54:17,420 --> 00:54:17,948
 Vale.
 
-1129
+1134
 00:54:18,020 --> 00:54:19,353
 ¡Flora azul, espinas rojas!
 
-1130
+1135
 00:54:19,550 --> 00:54:20,954
 ¿Para qué sirven las flores?
 
-1131
+1136
 00:54:21,380 --> 00:54:22,683
 Para deshacerme de él.
 
-1132
+1137
 00:54:22,859 --> 00:54:23,516
 Ah.
 
-1133
+1138
 00:54:23,690 --> 00:54:25,631
 Ahora estate quieto y te arrancaré este
 chisme.
 
-1134
+1139
 00:54:25,660 --> 00:54:26,521
 ¡Uy! ¡Ey!
 
-1135
+1140
 00:54:26,546 --> 00:54:27,944
 ¡Cuidado con los tirones!
 
-1136
+1141
 00:54:27,969 --> 00:54:29,999
 Ya, lo siento, pe- pe- pero tengo que
 sacártela.
 
-1137
+1142
 00:54:30,065 --> 00:54:31,280
 No, no, no, que es delicado.
 
-1138
+1143
 00:54:33,612 --> 00:54:34,862
 {\an8}no funcionaremos nada!
 
-1139
+1144
 00:54:32,854 --> 00:54:33,582
-{\an8} ¡Si- si sigues así, 
+{\an8} ¡Si- si sigues así,
 
-1140
+1145
 00:54:31,805 --> 00:54:32,585
 ¿Oh? ¿Qué?
 
-1141
+1146
 00:54:31,677 --> 00:54:32,254
 {\an8}¡No, no!
 
-1142
+1147
 00:54:32,278 --> 00:54:32,779
 {\an8}¡Oye! ¡Oye!
 
-1143
+1148
 00:54:32,845 --> 00:54:33,616
 ¡Quietate!
 
-1144
+1149
 00:54:33,620 --> 00:54:35,221
 ¡No te muevas, tú!
 
-
-1145
+1150
 00:54:35,245 --> 00:54:35,596
 ¡Se acabó!
 
-1146
+1151
 00:54:35,620 --> 00:54:36,575
 ¡Oye, tiempo muerto!
 
-1147
+1152
 00:54:36,600 --> 00:54:37,600
 ¿Quieres...?
 
-1148
+1153
 00:54:37,971 --> 00:54:38,437
 ¡Oh!
 
-1149
+1154
 00:54:38,720 --> 00:54:39,720
 ¡Muy bien!
 
-1150
+1155
 00:54:40,370 --> 00:54:42,120
 Dime, ¿qué propones que hagamos?
 
-1151
+1156
 00:54:42,350 --> 00:54:44,643
 Flor azul, espinas rojas, flor azul,
 espinas rojas.
 
-1152
+1157
 00:54:44,668 --> 00:54:47,203
 Esto sería mucho más fácil si no fuera
 analtórico.
 
-1153
+1158
 00:54:47,228 --> 00:54:48,410
 Flor azul, espinas roja.
 
-1154
+1159
 00:54:48,435 --> 00:54:49,596
 Flor azul esp-
 - ¡Oww!
 
-1155
+1160
 00:54:49,621 --> 00:54:51,300
  ¡Aguanta!
 ¡Voy a salvarte!
 
-1156
+1161
 00:54:53,640 --> 00:54:54,370
 ¡Ay!
 
-1157
+1162
 00:54:54,816 --> 00:54:55,816
 ¡Ha dolido!
 
-1158
+1163
 00:54:55,840 --> 00:54:56,840
 Vale.
 
-1159
+1164
 00:54:56,910 --> 00:54:58,515
 No, vale, está saliendo.
 
-1160
+1165
 00:54:58,540 --> 00:54:59,473
 Está asomando la punta.
 
-1161
+1166
 00:54:59,560 --> 00:55:00,213
 ¡Ya!
 
-1162
+1167
 00:55:05,090 --> 00:55:06,622
 No es lo que parece.
 
-1163
+1168
 00:55:06,670 --> 00:55:07,830
 Solo estábamos…
 
-1164
+1169
 00:55:08,470 --> 00:55:11,975
 Si queríais estar a solas, solo teníais
 que decirlo, ¿vale?
 
-1165
+1170
 00:55:12,000 --> 00:55:12,745
 ¡Vamos!
 
-1166
+1171
 00:55:12,770 --> 00:55:15,096
 Eso es algo que no se me ocurriría en la
 vida.
 
-1167
+1172
 00:55:15,785 --> 00:55:17,336
 La princesa estaba intentando-
 
-1168
+1173
 00:55:17,361 --> 00:55:18,529
 ¡Ay!
 
-1169
+1174
 00:55:21,899 --> 00:55:23,043
 ¡Oww!
 
-1170
+1175
 00:55:23,379 --> 00:55:24,596
 ¿Qué es eso?
 
-1171
+1176
 00:55:24,620 --> 00:55:27,532
 ¿Es… es… es… es sangre…?
 
-1172
+1177
 00:55:59,430 --> 00:56:00,718
 ¡Ah!
 
-1173
+1178
 00:56:57,930 --> 00:56:59,450
 Ahí lo tienes, Princesa.
 
-1174
+1179
 00:57:01,150 --> 00:57:02,512
 Tu futuro te espera.
 
-1175
+1180
 00:57:02,770 --> 00:57:03,887
 ¿Eso es Duloc?
 
-1176
+1181
 00:57:03,990 --> 00:57:05,125
 Sí, lo sé.
 
-1177
+1182
 00:57:05,150 --> 00:57:07,815
 Shrek dice que Lord Farquaad intenta
 compensar algo.
 
-1178
+1183
 00:57:07,840 --> 00:57:10,167
 Yo creo que lo que pasa
 es que la tiene muy… ¡ah!
 
-1179
+1184
 00:57:10,710 --> 00:57:11,710
 Bueno…
 
-1180
+1185
 00:57:12,250 --> 00:57:13,530
 será mejor que continuemos.
 
-1181
+1186
 00:57:13,850 --> 00:57:14,844
 Claro.
 
-1182
+1187
 00:57:14,918 --> 00:57:15,779
 Pero…
 
-1183
+1188
 00:57:15,936 --> 00:57:16,856
 Shrek…
 
-1184
+1189
 00:57:17,264 --> 00:57:18,670
 yo…
 
-1185
+1190
 00:57:18,790 --> 00:57:19,978
 ...me preocupa Asno.
 
-1186
+1191
 00:57:20,050 --> 00:57:20,445
 ¿Qué?
 
-1187
+1192
 00:57:20,470 --> 00:57:21,161
 No sé.
 
-1188
+1193
 00:57:21,370 --> 00:57:21,970
 Mírale tú.
 
-1189
+1194
 00:57:22,350 --> 00:57:23,970
 No, no, no, no tiene buen aspecto.
 
-1190
+1195
 00:57:23,990 --> 00:57:25,270
 ¡Qué tontería!
 Estoy muy bien.
 
-1191
+1196
 00:57:25,350 --> 00:57:26,921
 Ya.
 Eso es lo que siempre se dice.
 
-1192
+1197
 00:57:26,946 --> 00:57:27,766
 Y luego…
 
-1193
+1198
 00:57:27,790 --> 00:57:29,573
 ...y luego acto seguido se estira la pata.
 
-1194
+1199
 00:57:30,770 --> 00:57:31,605
 Se muere.
 
-1195
+1200
 00:57:31,630 --> 00:57:32,630
 Pues es verdad.
 
-1196
+1201
 00:57:33,360 --> 00:57:34,732
 Tienes una pinta horrible.
 
-1197
+1202
 00:57:34,820 --> 00:57:35,765
 ¿Quieres echarte un rato?
 
-1198
+1203
 00:57:35,790 --> 00:57:37,374
 Voy a prepararte un té.
 
-1199
+1204
 00:57:37,430 --> 00:57:39,228
 Sí, lo he sufrido en silencio.
 
-1200
+1205
 00:57:39,410 --> 00:57:42,339
 Reconozco que tengo tortícolis
 y cuando tuerzo la cabeza… ¡ah!
 
-1201
+1206
 00:57:42,450 --> 00:57:42,865
 ¿Lo veis?
 
-1202
+1207
 00:57:42,890 --> 00:57:43,825
 ¿Tienes hambre?
 
-1203
+1208
 00:57:43,850 --> 00:57:44,905
 Iré a buscar la cena.
 
-1204
+1209
 00:57:44,930 --> 00:57:45,930
 Y yo a por leña.
 
-1205
+1210
 00:57:46,100 --> 00:57:47,196
 ¿A dónde vais?
 
-1206
+1211
 00:57:47,550 --> 00:57:48,140
 ¡Oh!
 
-1207
+1212
 00:57:48,170 --> 00:57:48,780
 ¡Vaya!
 
-1208
+1213
 00:57:48,805 --> 00:57:50,274
 ¡No siento mis dedos!
 
-1209
+1214
 00:57:51,260 --> 00:57:52,436
 ¡No tengo dedos!
 
-1210
+1215
 00:57:53,450 --> 00:57:55,343
 Creo que necesito un bibito.
 
-1211
+1216
 00:58:02,840 --> 00:58:04,016
 Está muy rico.
 
-1212
+1217
 00:58:04,380 --> 00:58:05,460
 Está pero que muy rico.
 
-1213
+1218
 00:58:07,740 --> 00:58:08,740
 Oye, ¿qué es?
 
-1214
+1219
 00:58:09,050 --> 00:58:10,140
 Rata de yerbajo.
 
-1215
+1220
 00:58:11,110 --> 00:58:12,110
 Al estilo mi abuela.
 
-1216
+1221
 00:58:12,400 --> 00:58:13,400
 No me digas.
 
-1217
+1222
 00:58:15,814 --> 00:58:16,945
 Está deliciosa.
 
-1218
+1223
 00:58:16,970 --> 00:58:18,795
 Y estofadas son todo un manjar.
 
-1219
+1224
 00:58:18,820 --> 00:58:19,670
 En serio.
 
-1220
+1225
 00:58:19,820 --> 00:58:20,975
 Y no es por fardar.
 
-1221
+1226
 00:58:21,000 --> 00:58:23,669
 Pero prepara un estofado que está de
 muerte.
 
-1222
+1227
 00:58:27,930 --> 00:58:30,693
 Me parece que mi cena de mañana será muy
 diferente.
 
-1223
+1228
 00:58:32,830 --> 00:58:35,560
 Tal vez algún día podrías ir a verme a mi
 ciénaga.
 
-1224
+1229
 00:58:36,659 --> 00:58:38,600
 Y te cocinaré todo mi repertorio.
 
-1225
+1230
 00:58:38,950 --> 00:58:39,995
 Sapo a la jardinera.
 
-1226
+1231
 00:58:40,020 --> 00:58:41,115
 Pato a la ciénaga.
 
-1227
+1232
 00:58:41,140 --> 00:58:42,140
 Lo que tú pidas.
 
-1228
+1233
 00:58:44,650 --> 00:58:45,794
 Me encantaría.
 
-1229
+1234
 00:58:58,260 --> 00:58:59,260
 ¿Princesa?
 
-1230
+1235
 00:59:00,120 --> 00:59:01,120
 ¿Sí?
 
-1231
+1236
 00:59:01,580 --> 00:59:02,580
 ¿Shrek?
 
-1232
+1237
 00:59:03,340 --> 00:59:04,340
 Esto…
 
-1233
+1238
 00:59:04,700 --> 00:59:05,700
 ¿...cómo decírtelo?
 
-1234
+1239
 00:59:06,902 --> 00:59:07,902
 Oye, tú…
 
-1235
+1240
 00:59:12,850 --> 00:59:14,079
 ¿...tú vas a comerte esto?
 
-1236
+1241
 00:59:21,620 --> 00:59:23,285
 Tío, esto sí que es romántico.
 
-1237
+1242
 00:59:23,310 --> 00:59:24,722
 Fijaos qué puesta de sol.
 
-1238
+1243
 00:59:24,870 --> 00:59:25,765
 ¿Puesta de sol?
 
-1239
+1244
 00:59:25,790 --> 00:59:26,790
 ¡Oh, no!
 
-1240
+1245
 00:59:27,490 --> 00:59:28,905
 Es, es, es tarde.
 
-1241
+1246
 00:59:28,930 --> 00:59:29,956
 Es, es muy tarde.
 
-1242
+1247
 00:59:30,090 --> 00:59:30,552
 ¿Qué?
 
-1243
+1248
 00:59:30,580 --> 00:59:31,580
 Echa el freno.
 
-1244
+1249
 00:59:31,655 --> 00:59:33,150
 Ya sé lo que está pasando aquí.
 
-1245
+1250
 00:59:33,960 --> 00:59:35,845
 Tienes miedo de la oscuridad, ¿a que sí?
 
-1246
+1251
 00:59:35,870 --> 00:59:36,342
 Sí.
 
-1247
+1252
 00:59:36,710 --> 00:59:37,710
 Sí, eso es.
 
-1248
+1253
 00:59:37,740 --> 00:59:38,930
 Me da un pánico tremendo.
 
-1249
+1254
 00:59:39,210 --> 00:59:40,290
 Será mejor que entre.
 
-1250
+1255
 00:59:40,390 --> 00:59:41,505
 No hay que avergonzarse.
 
-1251
+1256
 00:59:41,530 --> 00:59:44,811
 Yo también tenía miedo a la
 oscuridad, hasta que… eh, no, para.
 
-1252
+1257
 00:59:44,960 --> 00:59:46,486
 Aún tengo miedo a la oscuridad.
 
-1253
+1258
 00:59:48,130 --> 00:59:49,130
 Buenas noches.
 
-1254
+1259
 00:59:50,190 --> 00:59:51,190
 Buenas noches.
 
-1255
+1260
 00:59:56,590 --> 00:59:59,226
 Ahora veo muy clarito lo que está
 ocurriendo aquí.
 
-1256
+1261
 00:59:59,330 --> 01:00:00,822
 Eh, oye, ¿a qué te refieres?
 
-1257
+1262
 01:00:01,130 --> 01:00:02,095
 No te hagas el longuis.
 
-1258
+1263
 01:00:02,120 --> 01:00:03,500
 Soy un animal y tengo instinto.
 
-1259
+1264
 01:00:03,525 --> 01:00:05,079
 Y sé que vosotros estáis engatusados.
 
-1260
+1265
 01:00:05,120 --> 01:00:05,655
 Lo huelo.
 
-1261
+1266
 01:00:05,680 --> 01:00:07,070
 Ah, tonterías tuyas.
 
-1262
+1267
 01:00:07,130 --> 01:00:09,020
 Solo la llevo para entregarla a Farquaad.
 
-1263
+1268
 01:00:10,280 --> 01:00:11,225
 Ah, espabila, tío.
 
-1264
+1269
 01:00:11,250 --> 01:00:12,874
 Despierta y huele las feromonas.
 
-1265
+1270
 01:00:13,000 --> 01:00:14,184
 Entra y dile lo que sientes.
 
-1266
+1271
 01:00:14,220 --> 01:00:14,932
 ¡Calla!
 
-1267
+1272
 01:00:15,740 --> 01:00:16,936
 No tengo nada que decir.
 
-1268
+1273
 01:00:17,440 --> 01:00:19,605
 Además, aunque entrara y le dijera que…
 
-1269
+1274
 01:00:19,630 --> 01:00:24,426
 bueno, ya sabes, no estoy diciendo que lo
 haga, porque no lo haré.
 
-1270
+1275
 01:00:25,235 --> 01:00:27,400
 Ella es una princesa y yo…
 
-1271
+1276
 01:00:28,000 --> 01:00:28,999
 ¿...un ogro?
 
-1272
+1277
 01:00:30,770 --> 01:00:32,547
 Sí, un ogro.
 
-1273
+1278
 01:00:33,735 --> 01:00:34,852
 Eh, ¿a dónde vas?
 
-1274
+1279
 01:00:35,610 --> 01:00:37,236
 A buscar más leña.
 
-1275
+1280
 01:00:56,730 --> 01:00:57,730
 Princesa.
 
-1276
+1281
 01:00:59,001 --> 01:01:00,001
 Princesa Fiona.
 
-1277
+1282
 01:01:05,630 --> 01:01:06,750
 Princesa, ¿dónde estás?
 
-1278
+1283
 01:01:13,350 --> 01:01:14,350
 Princesa.
 
-1279
+1284
 01:01:19,110 --> 01:01:21,856
 Me está entrando el canguelo y no estoy
 para juegos.
 
-1280
+1285
 01:01:32,328 --> 01:01:33,401
 ¡Ahh!
 - ¡No!
 
-1281
+1286
 01:01:33,426 --> 01:01:34,776
 ¡Socorro!
 - ¡No, no!
 
-1282
+1287
 01:01:34,801 --> 01:01:36,872
 ¡Shrek! ¡Shrek! ¡Shrek!
 - ¡Shh! ¡No, no!
 
-1283
+1288
 01:01:36,897 --> 01:01:37,848
 Pues, tranquilo
 
-1284
+1289
 01:01:37,873 --> 01:01:38,930
 ¿Dónde está la princesa?
 
-1285
+1290
 01:01:38,931 --> 01:01:39,539
 ¡Shh!
 
-1286
+1291
 01:01:39,564 --> 01:01:40,805
 ¡Soy la princesa!
 
-1287
+1292
 01:01:40,830 --> 01:01:41,830
 ¡Soy yo!
 
-1288
+1293
 01:01:42,270 --> 01:01:43,270
 ¡En este cuerpo!
 
-1289
+1294
 01:01:43,710 --> 01:01:44,385
 ¡Caníbal!
 
-1290
+1295
 01:01:44,410 --> 01:01:45,870
 ¡Te has tragado a la Princesa!
 
-1291
+1296
 01:01:46,080 --> 01:01:47,090
 ¡Princesa, ¿me oyes!?
 
-1292
+1297
 01:01:47,115 --> 01:01:47,945
 ¡Lucha!
 - ¡Asno!
 
-1293
+1298
 01:01:47,970 --> 01:01:49,210
 ¡Sigue respirando!
 - ¡No!
 
-1294
+1299
 01:01:49,235 --> 01:01:50,465
 ¡Yo te sacaré de ahí!
 
-1295
+1300
 01:01:50,490 --> 01:01:51,926
 ¡Shrek! ¡Shrek!
 
-1296
+1301
 01:01:51,951 --> 01:01:53,010
 ¡Shh!
 
-1297
+1302
 01:01:53,290 --> 01:01:54,465
 ¡Soy yo, Fiona!
 
-1298
+1303
 01:02:00,664 --> 01:02:01,910
 ¿Princesa?
 
-1299
+1304
 01:02:03,270 --> 01:02:04,839
 ¿Qué te ha pasado? Estás hor-
 
-1300
+1305
 01:02:07,692 --> 01:02:08,352
 ¿... diferente?
 
-1301
+1306
 01:02:08,376 --> 01:02:09,126
 ¡Estoy horrible!
 
-1302
+1307
 01:02:09,150 --> 01:02:09,872
 ¿De acuerdo?
 
-1303
+1308
 01:02:10,010 --> 01:02:10,885
 ¡Pues sí!
 
-1304
+1309
 01:02:10,910 --> 01:02:12,135
 ¡Tal vez por la comida!
 
-1305
+1310
 01:02:12,159 --> 01:02:14,068
 ¡Ya le dije a Shrek que nada de ratas!
 
-1306
+1311
 01:02:14,190 --> 01:02:15,410
 ¡Lo que se come, se cría!
 
-1307
+1312
 01:02:15,530 --> 01:02:16,220
 ¡No!
 
-1308
+1313
 01:02:17,450 --> 01:02:20,059
 He sido así desde donde alcanza mi
 memoria.
 
-1309
+1314
 01:02:20,110 --> 01:02:20,792
 ¿Cómo?
 
-1310
+1315
 01:02:20,965 --> 01:02:22,733
 Oye, yo nunca te había visto así.
 
-1311
+1316
 01:02:22,998 --> 01:02:25,603
 Únicamente me ocurre cuando se pone el
 sol.
 
-1312
+1317
 01:02:27,210 --> 01:02:28,591
 De noche una apariencia.
 
-1313
+1318
 01:02:29,447 --> 01:02:30,852
 Durante el día otra.
 
-1314
+1319
 01:02:31,262 --> 01:02:32,741
 Esa será la norma.
 
-1315
+1320
 01:02:33,520 --> 01:02:35,750
 Del primer beso de amor verdadero
 surgirá…
 
-1316
+1321
 01:02:36,672 --> 01:02:39,294
 ...sí, la verdadera forma.
 
-1317
+1322
 01:02:41,210 --> 01:02:42,680
 Oh, es muy bonito.
 
-1318
+1323
 01:02:43,260 --> 01:02:44,525
 Escribes poesías.
 
-1319
+1324
 01:02:44,550 --> 01:02:45,651
 Es un hechizo.
 
-1320
+1325
 01:02:47,670 --> 01:02:50,999
 Cuando yo aún era una niña, una bruja me
 hizo un hechizo.
 
-1321
+1326
 01:02:52,190 --> 01:02:54,090
 Todas las noches me convierto en esto.
 
-1322
+1327
 01:02:55,510 --> 01:02:57,958
 En este horroroso y feo engendro.
 
-1323
+1328
 01:03:01,220 --> 01:03:05,054
 Me llevaron aquel torreón a la espera de
 que algún día mi amor me rescatara.
 
-1324
+1329
 01:03:06,038 --> 01:03:09,534
 Por eso la boda con Lord Farquaad debe
 celebrarse mañana antes de la caída del
 
-1325
+1330
 01:03:09,559 --> 01:03:11,256
 sol y pueda verme…
 
-1326
+1331
 01:03:13,250 --> 01:03:14,511
 ...así.
 
-1327
+1332
 01:03:16,630 --> 01:03:17,856
 Vamos, vamos, vamos.
 
-1328
+1333
 01:03:18,245 --> 01:03:19,535
 Tampoco estás tan fea.
 
-1329
+1334
 01:03:19,560 --> 01:03:20,340
 No estás tan mal.
 
-1330
+1335
 01:03:20,341 --> 01:03:22,135
 Mira, no, no te mentiré.
 
-1331
+1336
 01:03:22,160 --> 01:03:23,160
 Así eres fea.
 
-1332
+1337
 01:03:23,740 --> 01:03:25,221
 Pero solo doce horas al día.
 
-1333
+1338
 01:03:25,370 --> 01:03:26,700
 Y Shrek lo es todo el año.
 
-1334
+1339
 01:03:27,220 --> 01:03:30,181
 Pero Asno, soy una princesa.
 
-1335
+1340
 01:03:30,480 --> 01:03:33,080
 ¿Y dónde se ha visto una princesa con este
 aspecto?
 
-1336
+1341
 01:03:34,943 --> 01:03:35,986
 ¿Princesa?
 
-1337
+1342
 01:03:36,010 --> 01:03:37,802
 ¿Qué tal si no te casas con Farquaad?
 
-1338
+1343
 01:03:38,120 --> 01:03:39,216
 Debo hacerlo.
 
-1339
+1344
 01:03:39,740 --> 01:03:42,401
 El hechizo solo se romperá con el primer
 beso de amor.
 
-1340
+1345
 01:03:42,898 --> 01:03:43,802
 Pues, ¿sabes?
 
-1341
+1346
 01:03:44,900 --> 01:03:46,540
 Te pareces un poco un ogro y…
 
-1342
+1347
 01:03:47,280 --> 01:03:49,620
 ...Shrek, ¿tenéis muchas cosas en común?
 
-1343
+1348
 01:03:50,460 --> 01:03:51,460
 ¿Shrek?
 
-1344
+1349
 01:03:51,784 --> 01:03:55,249
 Princesa, ah,, antes de nada, ¿cómo va todo?
 
-1345
+1350
 01:03:55,320 --> 01:03:56,320
 ¿Bien?
 
-1346
+1351
 01:03:56,540 --> 01:03:58,176
 A mí también.
 
-1347
+1352
 01:03:58,300 --> 01:03:59,300
 Estoy bien.
 
-1348
+1353
 01:04:00,000 --> 01:04:04,702
 Cuando he visto esta flor, me ha recordado
 mucho a ti porque es bonita.
 
-1349
+1354
 01:04:05,340 --> 01:04:10,058
 Y bueno, a mí no me gusta mucho, pero he
 pensado que a ti sí porque tú eres bonita.
 
-1350
+1355
 01:04:10,270 --> 01:04:11,568
 Pero tú sí que me gustas mucho.
 
-1351
+1356
 01:04:11,797 --> 01:04:13,953
 ¡Ah! Ahh...
 
-1352
+1357
 01:04:14,600 --> 01:04:15,877
 Lo llevo fatal.
 
-1353
+1358
 01:04:16,952 --> 01:04:18,579
 En fin, vamos allá.
 
-1354
+1359
 01:04:18,660 --> 01:04:21,228
 No puedo casarme con quien yo deseo.
 
-1355
+1360
 01:04:21,680 --> 01:04:22,820
 Miralo, Asno.
 
-1356
+1361
 01:04:23,760 --> 01:04:24,900
 Vamos, ya lo ves.
 
-1357
+1362
 01:04:26,125 --> 01:04:28,600
 ¿Quién podría amar a un engendro horroroso
 y feo?
 
-1358
+1363
 01:04:29,280 --> 01:04:32,560
 Princesa y engendro no pegan, por eso no
 puedo quedarme aquí con Shrek.
 
-1359
+1364
 01:04:33,467 --> 01:04:35,349
 Mi única posibilidad de ser feliz y comer
 
-1360
+1365
 01:04:35,350 --> 01:04:38,025
 perdices es casándome
 con mi amor verdadero.
 
-1361
+1366
 01:04:39,206 --> 01:04:40,445
 No lo entiendes, Asno.
 
-1362
+1367
 01:04:41,727 --> 01:04:42,820
 Así es como debe ser.
 
-1363
+1368
 01:04:45,728 --> 01:04:47,300
 Solo así se romperá el embrujo.
 
-1364
+1369
 01:04:47,823 --> 01:04:49,640
 Entonces cuéntale la verdad, Shrek.
 
-1365
+1370
 01:04:50,118 --> 01:04:51,975
 No, no digas a nadie una palabra.
 
-1366
+1371
 01:04:52,000 --> 01:04:53,443
 Nadie debe saberlo nunca.
 
-1367
+1372
 01:04:53,609 --> 01:04:55,954
 ¿De qué me sirve saber hablar si no puedo
 contar nada?
 
-1368
+1373
 01:04:55,990 --> 01:04:57,284
 Prométeme que no se lo dirás.
 
-1369
+1374
 01:04:57,898 --> 01:04:58,568
 Promételo.
 
-1370
+1375
 01:04:58,593 --> 01:04:59,968
 Vale, vale, no se lo diré.
 
-1371
+1376
 01:05:00,618 --> 01:05:01,560
 Díselo tú.
 
-1372
+1377
 01:05:02,249 --> 01:05:05,420
 Antes de que acabe esto, verás como tengo
 que ir al psiquiatra.
 
-1373
+1378
 01:05:05,421 --> 01:05:06,442
 Mira el tip del ojo.
 
-1374
+1379
 01:05:31,360 --> 01:05:32,360
 Se lo digo.
 
-1375
+1380
 01:05:33,000 --> 01:05:34,280
 No se lo digo.
 
-1376
+1381
 01:05:36,476 --> 01:05:37,676
 Se lo digo.
 
-1377
+1382
 01:05:37,720 --> 01:05:39,350
 No se lo digo.
 
-1378
+1383
 01:05:41,084 --> 01:05:41,902
 Se lo digo.
 
-1379
+1384
 01:05:42,400 --> 01:05:43,215
 ¡Shrek!
 
-1380
+1385
 01:05:44,019 --> 01:05:44,624
 ¡Shrek!
 
-1381
+1386
 01:05:45,305 --> 01:05:46,353
 Quiero hablar de…
 
-1382
+1387
 01:06:07,840 --> 01:06:08,840
 Shrek.
 
-1383
+1388
 01:06:11,100 --> 01:06:12,066
 ¿Te encuentras bien?
 
-1384
+1389
 01:06:12,091 --> 01:06:12,900
 Perfectamente.
 
-1385
+1390
 01:06:12,925 --> 01:06:14,200
 Nunca había estado mejor.
 
-1386
+1391
 01:06:15,284 --> 01:06:16,065
 Yo…
 
-1387
+1392
 01:06:17,210 --> 01:06:18,580
 ...quería decirte algo importante.
 
-1388
+1393
 01:06:18,870 --> 01:06:20,820
 No hace falta que me digas nada, Princesa.
 
-1389
+1394
 01:06:21,240 --> 01:06:22,794
 Anoche ya oí suficiente.
 
-1390
+1395
 01:06:23,104 --> 01:06:24,104
 ¿Oíste lo que dije?
 
-1391
+1396
 01:06:24,128 --> 01:06:25,400
 Absolutamente todo.
 
-1392
+1397
 01:06:25,820 --> 01:06:27,317
 Creí que lo entenderías.
 
-1393
+1398
 01:06:27,460 --> 01:06:28,660
 Oh, claro que lo entiendo.
 
-1394
+1399
 01:06:29,280 --> 01:06:32,960
 Como tú dijiste, ¿quién podría amar a un
 engendro horroroso y feo?
 
-1395
+1400
 01:06:34,237 --> 01:06:36,155
 Creía que eso a ti no te importaría.
 
-1396
+1401
 01:06:36,180 --> 01:06:37,778
 ¡Ah, no!
 Pues mal creído.
 
-1397
+1402
 01:06:40,930 --> 01:06:42,160
 Bien, justo a tiempo.
 
-1398
+1403
 01:06:43,360 --> 01:06:45,688
 Princesa, te he traído un pequeño
 presente.
 
-1399
+1404
 01:06:51,637 --> 01:06:52,275
 ¡Qué bodorra!
 
-1400
+1405
 01:06:52,300 --> 01:06:53,198
 ¿Qué pasa?
 
-1401
+1406
 01:06:54,294 --> 01:06:54,936
 ¿Quién lo ha dicho?
 
-1402
+1407
 01:06:54,960 --> 01:06:55,960
 Los asnos no hablan.
 
-1403
+1408
 01:06:57,813 --> 01:07:00,005
 Princesa Fiona.
 
-1404
+1409
 01:07:00,030 --> 01:07:01,260
 Antes lo prometido.
 
-1405
+1410
 01:07:01,635 --> 01:07:02,790
 Entrégamela ahora.
 
-1406
+1411
 01:07:03,080 --> 01:07:04,080
 Está bien, ogro.
 
-1407
+1412
 01:07:04,200 --> 01:07:07,560
 La escritura de tu ciénaga, despejada como
 acordamos.
 
-1408
+1413
 01:07:07,780 --> 01:07:08,780
 Cógela y vete.
 
-1409
+1414
 01:07:09,440 --> 01:07:11,020
 No sea que cambie de parecer.
 
-1410
+1415
 01:07:12,330 --> 01:07:16,430
 Disculpadme, Princesa, por sorprenderos,
 pero vos me sorprendéis a mí.
 
-1411
+1416
 01:07:17,070 --> 01:07:20,414
 Debo deciros que jamás había visto una
 belleza tan deslumbrante.
 
-1412
+1417
 01:07:21,080 --> 01:07:21,823
 Yo…
 
-1413
+1418
 01:07:22,098 --> 01:07:23,520
 ...yo soy Lord Farquaad.
 
-1414
+1419
 01:07:24,140 --> 01:07:25,140
 ¿Lord Farquaad?
 
-1415
+1420
 01:07:26,103 --> 01:07:27,799
 ¿Eh? Ah, eh, no, no.
 
-1416
+1421
 01:07:29,060 --> 01:07:29,995
 Disculpadme, Lord.
 
-1417
+1422
 01:07:30,020 --> 01:07:31,800
 Solo se trataba de una corta…
 
-1418
+1423
 01:07:35,060 --> 01:07:36,060
 …despedida.
 
-1419
+1424
 01:07:36,085 --> 01:07:37,935
 Ah, sois todo un encanto.
 
-1420
+1425
 01:07:37,960 --> 01:07:40,475
 No desperdicéis vuestros modales con ese
 ogro.
 
-1421
+1426
 01:07:41,248 --> 01:07:42,840
 Eso carece de sentimientos.
 
-1422
+1427
 01:07:43,631 --> 01:07:44,138
 No.
 
-1423
+1428
 01:07:44,400 --> 01:07:45,400
 Es cierto.
 
-1424
+1429
 01:07:45,659 --> 01:07:46,825
 Eso no los tiene.
 
-1425
+1430
 01:07:47,207 --> 01:07:50,960
 Princesa Fiona, melifua, flamante y
 florida Fiona.
 
-1426
+1431
 01:07:51,435 --> 01:07:53,780
 Yo os pido en matrimonio.
 
-1427
+1432
 01:07:53,781 --> 01:07:54,781
 ¡Oh!
 
-1428
+1433
 01:07:55,040 --> 01:07:59,146
 ¿Queréis ser la perfecta novia para el
 perfecto novio?
 
-1429
+1434
 01:08:03,577 --> 01:08:04,577
 ¿Lord Farquaad?
 
-1430
+1435
 01:08:05,446 --> 01:08:06,500
 Sí, acepto.
 
-1431
+1436
 01:08:07,019 --> 01:08:08,715
-Nada en este momento... 
+Nada en este momento...
 - ¡Excelente!
 
-1432
+1437
 01:08:08,740 --> 01:08:10,018
 Iniciaré los preparativos.
 
-1433
+1438
 01:08:10,200 --> 01:08:11,400
 Mañana será la boda.
 
-1434
+1439
 01:08:11,482 --> 01:08:11,893
 ¡No!
 
-1435
+1440
 01:08:12,197 --> 01:08:12,701
 Eh…
 
-1436
+1441
 01:08:12,985 --> 01:08:15,041
 ...bueno, eh… ¿por qué esperar?
 
-1437
+1442
 01:08:15,770 --> 01:08:17,200
 Celebremos hoy la boda.
 
-1438
+1443
 01:08:17,880 --> 01:08:18,880
 Antes del ocaso.
 
-1439
+1444
 01:08:19,713 --> 01:08:20,184
 ¡Oh!
 
-1440
+1445
 01:08:20,210 --> 01:08:21,582
 El ansia os conmueve.
 
-1441
+1446
 01:08:21,869 --> 01:08:22,424
 Es cierto.
 
-1442
+1447
 01:08:22,460 --> 01:08:23,714
 Cuanto antes, mejor.
 
-1443
+1448
 01:08:23,740 --> 01:08:24,867
 ¡Hay mucho que hacer!
 
-1444
+1449
 01:08:26,235 --> 01:08:29,414
 El catering, la tarta, la
 orquesta, los invitados… ¡Capitán!
 
-1445
+1450
 01:08:29,439 --> 01:08:30,460
 ¡Consiga invitados!
 
-1446
+1451
 01:08:32,310 --> 01:08:33,527
 Id en paz, ogro.
 
-1447
+1452
 01:08:34,790 --> 01:08:36,035
 Tío, ¿pero qué haces?
 
-1448
+1453
 01:08:36,060 --> 01:08:37,197
 ¿Dejas que se largue?
 
-1449
+1454
 01:08:37,222 --> 01:08:38,420
 Sí, que se largue.
 
-1450
+1455
 01:08:38,770 --> 01:08:40,240
 Hay algo que no sabes de ella.
 
-1451
+1456
 01:08:41,295 --> 01:08:42,586
 Anoche estuvimos hablando.
 
-1452
+1457
 01:08:42,750 --> 01:08:44,660
 Sí, ya sé que anoche estuvisteis hablando.
 
-1453
+1458
 01:08:44,941 --> 01:08:46,884
 Sois muy amiguitos, ¿no es así?
 
-1454
+1459
 01:08:47,140 --> 01:08:50,610
 Pues si de verdad sois tan amigos,
 ¿por qué no la sigues hasta su casa?
 
-1455
+1460
 01:08:50,635 --> 01:08:52,634
 Pero… quiero ir contigo.
 
-1456
+1461
 01:08:52,660 --> 01:08:52,995
 ¡Eh!
 
-1457
+1462
 01:08:53,020 --> 01:08:54,068
 Te lo dejé muy claro.
 
-1458
+1463
 01:08:54,200 --> 01:08:55,863
 ¡No volverás a mi casa conmigo¡
 
-1459
+1464
 01:08:55,888 --> 01:08:57,011
 Allí vivo yo solo.
 
-1460
+1465
 01:08:57,095 --> 01:08:58,080
 Es mi ciénaga.
 
-1461
+1466
 01:08:58,301 --> 01:08:58,755
 ¡Mía!
 
-1462
+1467
 01:08:58,779 --> 01:08:59,779
 ¡Y de nadie más!
 
-1463
+1468
 01:09:00,101 --> 01:09:00,802
 ¡Queda claro!
 
-1464
+1469
 01:09:00,877 --> 01:09:01,760
 ¡De nadie más!
 
-1465
+1470
 01:09:01,901 --> 01:09:06,334
 ¡Y aún menos de un inútil, patético,
 charlatán y cargante Asno!
 
-1466
+1471
 01:09:06,907 --> 01:09:08,178
 Pero… ¿creí?
 
-1467
+1472
 01:09:08,428 --> 01:09:08,715
 ¡Ya!
 
-1468
+1473
 01:09:08,740 --> 01:09:09,740
 ¡¿Pues, sabes qué?!
 
-1469
+1474
 01:09:10,270 --> 01:09:11,435
 ¡Estás equivocado!
 
-1470
+1475
 01:09:14,135 --> 01:09:15,194
 Shrek...
 
-0
+1476
 01:09:22,482 --> 01:09:28,633
 ♪ Heard there was a secret chord, that David played and it pleased the Lord. ♪
 
-0
+1477
 01:09:28,965 --> 01:09:33,607
 ♪ But you don't really care for music, do ya? ♪
 
-0
+1478
 01:09:35,919 --> 01:09:41,840
 ♪ It goes like this, the fourth, the fifth, a minor fall, a major lift. ♪
 
-0
+1479
 01:09:42,120 --> 01:09:47,466
 ♪ The baffled king composing. Hallelujah! ♪
 
-0
+1480
 01:09:48,397 --> 01:09:50,926
 ♪ Hallelujah. ♪
 
-0
+1481
 01:09:51,769 --> 01:09:54,352
 ♪ Hallelujah. ♪
 
-0
+1482
 01:09:55,200 --> 01:09:58,087
 ♪ Hallelujah. ♪
 
-0
+1483
 01:09:58,546 --> 01:10:03,939
 ♪ Hallelu-u-u-u-ujah. ♪
 
-0
+1484
 01:11:18,009 --> 01:11:21,258
 ♪ Hallelujah. ♪
 
-0
+1485
 01:11:21,591 --> 01:11:27,529
 ♪ Hallelu-u-u-u-ujah. ♪
 
-1471
+1486
 01:11:36,719 --> 01:11:37,429
 ¿Asno?
 
-1472
+1487
 01:11:39,588 --> 01:11:40,709
 ¿Qué estás haciendo?
 
-1473
+1488
 01:11:40,884 --> 01:11:43,579
 ¿Creí que eras experto mundial en reconocer burros, tío.
 
-1474
+1489
 01:11:44,231 --> 01:11:45,258
 Bueno, sí.
 
-1475
+1490
 01:11:45,473 --> 01:11:48,970
 Pero se supone que el muro debe rodear mi
 ciénaga, no atravesarlo.
 
-1476
+1491
 01:11:49,220 --> 01:11:50,410
 Y rodea tu mitad, ¿lo ves?
 
-1477
+1492
 01:11:50,760 --> 01:11:52,060
 Ahí tu mitad y aquí la mía.
 
-1478
+1493
 01:11:52,150 --> 01:11:53,430
 Ah, tu mitad.
 
-1479
+1494
 01:11:54,942 --> 01:11:55,990
 Sí, mi mitad.
 
-1480
+1495
 01:11:56,060 --> 01:11:58,116
 Yo ayudé a rescatar a la princesa, hice la
 
-1481
+1496
 01:11:58,166 --> 01:12:00,236
 mitad del trabajo, me
 toca la mitad del botín.
 
-1482
+1497
 01:12:00,261 --> 01:12:02,190
 Anda, pásame esa roca, la que es como tu
 cabeza.
 
-1483
+1498
 01:12:03,359 --> 01:12:04,156
 ¡Lárgate!
 
-1484
+1499
 01:12:04,530 --> 01:12:05,674
 ¡No, lárgate tú!
 
-1485
+1500
 01:12:05,700 --> 01:12:07,106
 Esta es mi ciénaga.
 
-1486
+1501
 01:12:07,131 --> 01:12:07,985
 ¡Nuestra ciénaga!
 
-1487
+1502
 01:12:08,010 --> 01:12:08,710
 ¡Suelta, Asno!
 
-1488
+1503
 01:12:08,734 --> 01:12:09,344
 ¡Suelta tú!
 
-1489
+1504
 01:12:09,439 --> 01:12:10,370
 ¡Murro tozudo!
 
-1490
+1505
 01:12:10,587 --> 01:12:11,330
 ¡Ogro cachino!
 
-1491
+1506
 01:12:11,522 --> 01:12:12,505
 ¡Vale!
 
-1492
+1507
 01:12:13,956 --> 01:12:14,525
 ¡Ey, ey!
 
-1493
+1508
 01:12:14,550 --> 01:12:15,767
 ¡Aún no he acabado contigo!
 
-1494
+1509
 01:12:16,250 --> 01:12:17,144
 ¡Yo contigo sí!
 
-1495
+1510
 01:12:17,170 --> 01:12:17,810
 ¡Oh, tronco!
 
-1496
+1511
 01:12:17,935 --> 01:12:19,204
 ¡Tú siempre estás con lo mismo!
 
-1497
+1512
 01:12:19,230 --> 01:12:20,352
 ¡Yo, yo y yo!
 
-1498
+1513
 01:12:20,839 --> 01:12:21,732
 ¡Pues entérate!
 
-1499
+1514
 01:12:22,224 --> 01:12:23,484
 ¡Ahora me toca a mí, tío!
 
-1500
+1515
 01:12:23,672 --> 01:12:25,562
 ¡Así que cállate y escucha!
 
-1501
+1516
 01:12:26,210 --> 01:12:27,744
 ¡Eres muy malo conmigo!
 
-1502
+1517
 01:12:28,090 --> 01:12:30,130
 ¡Me insultas y no aprecias nada de lo que
 hago!
 
-1503
+1518
 01:12:30,440 --> 01:12:32,710
 ¡Siempre me estás dando órdenes o me estás
 echando!
 
-1504
+1519
 01:12:32,711 --> 01:12:33,825
 ¿Ah, sí?
 
-1505
+1520
 01:12:33,850 --> 01:12:35,475
 ¡Pues si de verdad te trato tan mal!
 
-1506
+1521
 01:12:35,813 --> 01:12:37,277
 ¿Por qué narices has vuelto?
 
-1507
+1522
 01:12:37,580 --> 01:12:38,980
 ¡Porque es lo que hacen los amigos!
 
-1508
+1523
 01:12:39,317 --> 01:12:40,650
 ¡Siempre se perdonan!
 
-1509
+1524
 01:12:41,056 --> 01:12:41,870
 ¡Ah, claro!
 
-1510
+1525
 01:12:42,120 --> 01:12:43,890
 Sí, tienes toda la razón.
 
-1511
+1526
 01:12:44,090 --> 01:12:45,090
 Yo te perdono.
 
-1512
+1527
 01:12:45,662 --> 01:12:47,152
 ¡Por tu puñalada trapera!
 
-1513
+1528
 01:12:48,707 --> 01:12:49,910
 ¡Ay!
 
-1514
+1529
 01:12:50,350 --> 01:12:52,290
 ¡Te tapas con todas tus capas,
 tío cebollón!
 
-1515
+1530
 01:12:52,480 --> 01:12:53,630
 ¡Temes tus sentimientos!
 
-1516
+1531
 01:12:54,032 --> 01:12:54,804
 ¡Piérdete!
 
-1517
+1532
 01:12:54,830 --> 01:12:55,245
 ¿Lo ves?
 
-1518
+1533
 01:12:55,270 --> 01:12:56,150
 ¡Ya estás otra vez!
 
-1519
+1534
 01:12:56,175 --> 01:12:57,175
 ¡Igual que con Fiona!
 
-1520
+1535
 01:12:57,210 --> 01:12:58,751
 ¡Y ella no hizo más que apreciarte!
 
-1521
+1536
 01:12:58,954 --> 01:12:59,847
 ¡Tal vez quererte!
 
-1522
+1537
 01:13:00,184 --> 01:13:01,040
 ¿Quererme?
 
-1523
+1538
 01:13:01,260 --> 01:13:02,330
 Dijo que soy feo.
 
-1524
+1539
 01:13:02,570 --> 01:13:04,230
 Me llamó ingendro espantoso.
 
-1525
+1540
 01:13:04,470 --> 01:13:06,199
 Oí perfectamente lo que te dijo.
 
-1526
+1541
 01:13:06,340 --> 01:13:07,514
 ¡No estaba hablando de ti!
 
-1527
+1542
 01:13:07,540 --> 01:13:08,540
 ¡Estaba hablando de…!
 
-1528
+1543
 01:13:09,497 --> 01:13:10,353
 ...otra persona.
 
-1529
+1544
 01:13:13,265 --> 01:13:15,390
 ¿De- De modo que no hablaba de mí?
 
-1530
+1545
 01:13:16,373 --> 01:13:18,183
 Pues entonces, ¿a quién se refería?
 
-1531
+1546
 01:13:18,485 --> 01:13:20,197
 ¡No saldrá una palabra de mi ecico!
 
-1532
+1547
 01:13:20,351 --> 01:13:22,013
 El Señor nunca escucha, ¿verdad?
 
-1533
+1548
 01:13:22,037 --> 01:13:22,865
 ¡Asno!
 
-1534
+1549
 01:13:23,103 --> 01:13:23,623
 ¡No!
 
-1535
+1550
 01:13:24,271 --> 01:13:25,641
 De acuerdo, escucha.
 
-1536
+1551
 01:13:25,962 --> 01:13:27,141
 ¡Lo siento!
 
-1537
+1552
 01:13:27,278 --> 01:13:28,278
 ¿De acuerdo?
 
-1538
+1553
 01:13:34,360 --> 01:13:35,205
 Perdóname.
 
-1539
+1554
 01:13:36,562 --> 01:13:40,572
 Creo que no soy más que un feo y estúpido
 ogro egoísta.
 
-1540
+1555
 01:13:41,900 --> 01:13:42,900
 ¿Podrás perdonarme?
 
-1541
+1556
 01:13:46,490 --> 01:13:47,636
 ¡Para eso estamos amigos!
 
-1542
+1557
 01:13:48,130 --> 01:13:48,661
 Sí.
 
-1543
+1558
 01:13:49,553 --> 01:13:50,340
 ¿Amigos?
 
-1544
+1559
 01:13:50,874 --> 01:13:51,720
 Amigos.
 
-1545
+1560
 01:13:53,419 --> 01:13:54,569
-Oye, uh... 
+Oye, uh...
 
-1546
+1561
 01:13:55,669 --> 01:13:58,038
 ¿...qué- qué fue lo que te dijo Fiona de mí?
 
-1547
+1562
 01:13:58,510 --> 01:13:59,844
 Eso no me lo preguntes a mí.
 
-1548
+1563
 01:13:59,870 --> 01:14:01,092
 Pregúntaselo a ella.
 
-1549
+1564
 01:14:01,254 --> 01:14:01,778
 ¡Anda!
 
-1550
+1565
 01:14:02,027 --> 01:14:02,697
 ¡La boda!
 
-1551
+1566
 01:14:03,010 --> 01:14:04,309
 ¡No llegaremos a tiempo!
 
-1552
+1567
 01:14:04,407 --> 01:14:05,116
 ¡Je, je, je!
 
-1553
+1568
 01:14:05,140 --> 01:14:06,195
 No temas, tío.
 
-1554
+1569
 01:14:06,252 --> 01:14:07,340
 Quien la sigue, la consigue.
 
-1555
+1570
 01:14:07,485 --> 01:14:08,781
 Y yo sé cómo conseguirlo.
 
-1556
+1571
 01:14:09,340 --> 01:14:09,848
 *silba*
 
-1557
+1572
 01:14:14,080 --> 01:14:15,080
 ¡Asno!
 
-1558
+1573
 01:14:15,312 --> 01:14:17,050
 ¡Je, je je je je!
 
-1559
+1574
 01:14:17,287 --> 01:14:18,875
 ¡Glamour animal que tiene uno!
 
-1560
+1575
 01:14:19,211 --> 01:14:21,324
 ¡Ah, ja ja ja ja ja!
 
-1561
+1576
 01:14:21,349 --> 01:14:23,294
 ¡Esto es un amigo!
 - ¡Quieto, quieto!
 
-1562
+1577
 01:14:23,320 --> 01:14:24,054
 ¡No me sobes!
 
-1563
+1578
 01:14:24,079 --> 01:14:25,100
 ¡No sean rameburros!
 
-1564
+1579
 01:14:25,618 --> 01:14:26,379
 ¡Arriba!
 
-1565
+1580
 01:14:26,760 --> 01:14:27,825
 ¡Agárrate fuerte!
 
-1566
+1581
 01:14:27,850 --> 01:14:29,809
 ¡Aún no hay cinturones de seguridad!
 
-1567
+1582
 01:14:29,833 --> 01:14:30,991
 ¡Je je ji ji!
 
-1568
+1583
 01:14:37,429 --> 01:14:39,393
 ¡Ah ja ja ja ja ja!
 
-1569
+1584
 01:14:39,429 --> 01:14:40,342
 ¡Wu!
 
-1570
+1585
 01:14:58,389 --> 01:15:00,673
 ¡Ooh!
 
-1571
+1586
 01:15:01,409 --> 01:15:02,257
 ¡Aah!
 
-1572
+1587
 01:15:02,269 --> 01:15:04,450
 ¡Pueblo de Duloc!
 
-1573
+1588
 01:15:04,523 --> 01:15:14,103
 Nos hemos reunido hoy aquí para ser
 testigos de la unión de nuestro nuevo rey.
 
-1574
+1589
 01:15:12,191 --> 01:15:15,095
 {\an8}Um, disculpe. Um...
 
-1575
+1590
 01:15:15,240 --> 01:15:16,840
 Eh, ¿podríamos pasar a los si quiero?
 
-1576
+1591
 01:15:18,760 --> 01:15:19,760
 Adelante.
 
-1577
+1592
 01:15:25,090 --> 01:15:26,195
 Muy bien, muñeca.
 
-1578
+1593
 01:15:26,220 --> 01:15:27,700
 Si te necesitamos, ya te salvaré.
 
-1579
+1594
 01:15:31,480 --> 01:15:32,414
 Eh, ¡para, para!
 
-1580
+1595
 01:15:32,440 --> 01:15:32,974
 Un momento.
 
-1581
+1596
 01:15:33,000 --> 01:15:34,156
 No querrás pringarla, ¿no?
 
-1582
+1597
 01:15:34,324 --> 01:15:35,660
 Oye, ¿a qué viene esto ahora?
 
-1583
+1598
 01:15:35,680 --> 01:15:38,099
 Tienes que esperar a que el que les casa
 diga lo siguiente.
 
-1584
+1599
 01:15:38,280 --> 01:15:39,940
 Hable ahora o calle para siempre.
 
-1585
+1600
 01:15:39,941 --> 01:15:42,413
 Entonces vas y gritas, "¡yo objeto!"
 
-1586
+1601
 01:15:42,438 --> 01:15:44,133
 Oh, ¡no tengo tiempo para eso!
 
-1587
+1602
 01:15:44,224 --> 01:15:44,996
 Eh, ¡para, para!
 
-1588
+1603
 01:15:45,040 --> 01:15:45,474
 ¿Qué haces?
 
-1589
+1604
 01:15:45,500 --> 01:15:46,174
 Escúchame.
 
-1590
+1605
 01:15:46,199 --> 01:15:47,308
 ¿Tú quieres a esa mujer, no?
 
-1591
+1606
 01:15:47,418 --> 01:15:47,895
 Sí.
 
-1592
+1607
 01:15:47,919 --> 01:15:48,642
 ¡¿Abrazarla?!
 
-1593
+1608
 01:15:48,881 --> 01:15:49,414
 Sí.
 
-1594
+1609
 01:15:49,440 --> 01:15:50,013
 ¡¿Gustarla?!
 
-1595
+1610
 01:15:50,061 --> 01:15:50,476
 ¡Sí!
 
-1596
+1611
 01:15:50,500 --> 01:15:54,282
 ¡Pues tú dale, dale, tu ternura, tu amor!
 
-1597
+1612
 01:15:54,471 --> 01:15:55,735
 A las tías les va ese rollo.
 
-1598
+1613
 01:15:55,760 --> 01:15:56,823
 Vale, cállate ya.
 
-1599
+1614
 01:15:57,121 --> 01:15:59,046
 ¿Cuándo dice eso el que los casa?
 
-1600
+1615
 01:15:59,822 --> 01:16:00,700
 Lo averiguaremos.
 
-1601
+1616
 01:16:01,309 --> 01:16:05,099
 De este modo, por el poder que
 me ha sido otorgado…
 
-1602
+1617
 01:16:04,124 --> 01:16:05,083
 {\an8}¡Dime! ¿Qué ves?
 
-1603
+1618
 01:16:05,805 --> 01:16:06,805
 ¡Está todo el pueblo!
 
-1604
+1619
 01:16:07,067 --> 01:16:08,801
 {\an8}...yo declaro...
 
-1605
+1620
 01:16:08,187 --> 01:16:09,187
 ¡Están en el altar!
 
-1606
+1621
 01:16:09,280 --> 01:16:10,956
 ...marido y mujer.
 
-1607
+1622
 01:16:11,589 --> 01:16:12,946
 {\an8}¡Besad!
 
-1608
+1623
 01:16:11,970 --> 01:16:13,151
 ¡Madre, ya lo ha dicho!
 
-1609
+1624
 01:16:13,490 --> 01:16:14,960
 ¡Oh, por el amor del cielo!
 
-1610
+1625
 01:16:16,827 --> 01:16:18,329
 ¡Yo objeto!
 
-1611
+1626
 01:16:19,928 --> 01:16:20,927
 ¿Shrek?
 
-1612
+1627
 01:16:22,309 --> 01:16:23,325
 ¿Y ahora qué quiere?
 
-1613
+1628
 01:16:27,110 --> 01:16:28,623
 Hola a todo el mundo.
 
-1614
+1629
 01:16:29,010 --> 01:16:30,084
 ¿Lo están pasando bien?
 
-1615
+1630
 01:16:30,710 --> 01:16:32,624
 Me encanta Duloc, en serio.
 
-1616
+1631
 01:16:32,650 --> 01:16:33,390
 Muy limpio.
 
-1617
+1632
 01:16:33,588 --> 01:16:34,570
 ¿Qué estás haciendo aquí?
 
-1618
+1633
 01:16:34,690 --> 01:16:39,010
 Ya es una grosería completa estar vivo
 cuando nadie te soporta, pero presentarse
 
-1619
+1634
 01:16:39,011 --> 01:16:42,610
 a una boda sin ser invitado…
 - Fiona, quiero hablar contigo.
 
-1620
+1635
 01:16:42,905 --> 01:16:44,160
 Vaya, ¿ahora quieres hablar?
 
-1621
+1636
 01:16:44,760 --> 01:16:47,330
 Pues ya es un poco tarde, así que si me
 disculpas…
 
-1622
+1637
 01:16:47,403 --> 01:16:48,770
 ¡No puedes casarte con él!
 
-1623
+1638
 01:16:48,891 --> 01:16:49,928
 ¿Y por qué no?
 
-1624
+1639
 01:16:50,214 --> 01:16:51,070
 ¿Por qué...?
 
-1625
+1640
 01:16:51,300 --> 01:16:54,034
-Porque solo se casa contigo para 
+Porque solo se casa contigo para
 poder ser rey.
 
-1626
+1641
 01:16:54,290 --> 01:16:55,454
 ¡Qué ultraje!
 
-1627
+1642
 01:16:55,925 --> 01:16:56,848
 Fiona, no le hagas caso.
 
-1628
+1643
 01:16:56,910 --> 01:16:58,370
 Él no es tu amor verdadero.
 
-1629
+1644
 01:16:58,450 --> 01:17:00,130
 ¿Qué sabrás tú del amor verdadero?
 
-1630
+1645
 01:17:00,131 --> 01:17:03,400
 Bueno, yo… eh… en fin…
 
-1631
+1646
 01:17:03,425 --> 01:17:05,485
 Oh, esto no tiene precio.
 
-1632
+1647
 01:17:06,107 --> 01:17:07,526
 Je, je je je je.
 
-1633
+1648
 01:17:07,550 --> 01:17:10,972
 ¡El ogro se nos ha enamorado de la
 princesa!
 
-1634
+1649
 01:17:11,173 --> 01:17:11,826
 ¡Ja ja!
 
-1635
+1650
 01:17:11,850 --> 01:17:12,850
 ¡Santo Dios!
 
-1636
+1651
 01:17:13,490 --> 01:17:15,510
 ¡Un ogro y una princesa!
 
-1637
+1652
 01:17:16,553 --> 01:17:18,293
 ¡Ja, ja ja ja!
 
-1638
+1653
 01:17:18,318 --> 01:17:20,851
 *respira* ¡Ah, ja ja ja ja!
 
-1639
+1654
 01:17:20,876 --> 01:17:23,392
 Shrek, ¿es cierto?
 
-1640
+1655
 01:17:24,827 --> 01:17:25,399
 ¿Qué más da?
 
-1641
+1656
 01:17:25,820 --> 01:17:27,356
 ¡Es un completo absurdo!
 
-1642
+1657
 01:17:27,571 --> 01:17:31,043
 Fiona, amor mío, solo estamos
 a un beso de… comer perdices.
 
-1643
+1658
 01:17:31,210 --> 01:17:32,210
 Venga, bésame.
 
-1644
+1659
 01:17:37,395 --> 01:17:38,700
 De noche una apariencia...
 
-1645
+1660
 01:17:39,310 --> 01:17:40,592
 ...durante el día otra.
 
-1646
+1661
 01:17:43,710 --> 01:17:45,058
 Es lo que quise decirte.
 
-1647
+1662
 01:18:03,788 --> 01:18:08,586
 *jadeos*
 
-1648
+1663
 01:18:09,075 --> 01:18:09,750
 Vaya.
 
-1649
+1664
 01:18:10,064 --> 01:18:10,832
 Uh...
 
-1650
+1665
 01:18:11,620 --> 01:18:13,064
 ...eso lo aclara casi todo.
 
-1651
+1666
 01:18:14,480 --> 01:18:15,233
 ¡Ugh!
 
-1652
+1667
 01:18:15,365 --> 01:18:16,943
 ¡Es asqueroso!
 
-1653
+1668
 01:18:17,192 --> 01:18:18,826
 ¡Guardias! ¡Guardias!
 
-1654
+1669
 01:18:18,850 --> 01:18:20,947
 ¡Os ordeno que aparecéis eso de mi vista!
 
-1655
+1670
 01:18:21,063 --> 01:18:21,471
 ¡Vamos!
 
-1656
+1671
 01:18:21,510 --> 01:18:22,090
 ¡Cogedles!
 
-1657
+1672
 01:18:22,340 --> 01:18:23,424
 ¡Prendedles a los dos!
 
-1658
+1673
 01:18:23,450 --> 01:18:24,043
 ¡No! ¡No!
 
-1659
+1674
 01:18:24,068 --> 01:18:25,970
 Todo este abracadabra no cambia nada.
 
-1660
+1675
 01:18:26,380 --> 01:18:29,085
 Este matrimonio es válido y eso me
 convierte en rey.
 
-1661
+1676
 01:18:29,112 --> 01:18:30,050
 ¡Rey! ¡Rey!
 
-1662
+1677
 01:18:29,129 --> 01:18:30,129
 {\an8}¡No!
 
-1663
+1678
 01:18:30,068 --> 01:18:31,520
 ¡Andando! ¡Shrek!
 
-1664
+1679
 01:18:31,544 --> 01:18:32,116
 ¡No!
 
-1665
+1680
 01:18:33,190 --> 01:18:34,224
 ¡Quitaos del medio!
 
-1666
+1681
 01:18:34,250 --> 01:18:35,250
 ¡Fiona!
 
-1667
+1682
 01:18:45,340 --> 01:18:46,340
 ¡Fuerte rápida!
 
-1668
+1683
 01:18:47,195 --> 01:18:49,409
 Y en cuanto a ti, esposa mía...
 
-1669
+1684
 01:18:49,434 --> 01:18:50,076
 ¡Fiona!
 
-1670
+1685
 01:18:50,100 --> 01:18:53,220
 Volverás a tu prisión de la torre para el
 resto de tus días.
 
-1671
+1686
 01:18:53,680 --> 01:18:55,104
 ¡Yo soy el rey!
 
-1672
+1687
 01:18:55,242 --> 01:18:56,370
 ¡Impondré el orden!
 
-1673
+1688
 01:18:56,580 --> 01:18:57,880
 ¡Impondré la perfección!
 
-1674
+1689
 01:18:58,133 --> 01:18:59,710
 ¡Pienso es mejor!
 
-1675
+1690
 01:19:00,406 --> 01:19:02,558
 ¡Aaah!
 
-1676
+1691
 01:19:03,400 --> 01:19:04,400
 ¡Aaah!
 
-1677
+1692
 01:19:04,781 --> 01:19:05,781
 ¡Que nadie se mueva!
 
-1678
+1693
 01:19:05,940 --> 01:19:08,209
 ¡Tengo un dragón y no dudaré en usarlo!
 
-1679
+1694
 01:19:08,313 --> 01:19:09,436
 *rugido*
 
-1680
+1695
 01:19:09,754 --> 01:19:11,153
 ¡Soy un asno cabreado!
 
-1681
+1696
 01:19:12,578 --> 01:19:13,440
 ¡Brrp!
 
-1682
+1697
 01:19:13,610 --> 01:19:17,578
 ¡Los matrimonios famosos no suelen durar
 mucho!
 
-1683
+1698
 01:19:21,170 --> 01:19:22,170
 ¡Cuando quieras!
 
-1684
+1699
 01:19:24,913 --> 01:19:25,678
 ¿Fiona?
 
-1685
+1700
 01:19:27,044 --> 01:19:28,064
 Sí, Shrek.
 
-1686
+1701
 01:19:29,122 --> 01:19:29,886
 Ehh...
 
-1687
+1702
 01:19:31,819 --> 01:19:32,835
 Te quiero.
 
-1688
+1703
 01:19:33,926 --> 01:19:34,946
 ¿De verdad?
 
-1689
+1704
 01:19:36,693 --> 01:19:37,891
 De verdad, de la buena.
 
-1690
+1705
 01:19:40,218 --> 01:19:41,408
 Yo también te quiero.
 
-1691
+1706
 01:19:47,196 --> 01:19:48,851
 ¡Aawww!
 
-1692
+1707
 01:19:48,876 --> 01:19:50,002
 *aplausos*
 
-1693
+1708
 01:19:50,730 --> 01:19:53,990
 Del primer beso de amor verdadero surgió.
 
-1694
+1709
 01:19:54,100 --> 01:19:54,523
 Sí.
 
-1695
+1710
 01:19:54,940 --> 01:19:55,940
 La verdadera.
 
-1696
+1711
 01:20:20,339 --> 01:20:21,599
 Verdadera...
 
-1697
+1712
 01:20:30,775 --> 01:20:31,541
 ¿Fiona?
 
-1698
+1713
 01:20:35,181 --> 01:20:35,878
 Fiona.
 
-1699
+1714
 01:20:37,780 --> 01:20:38,822
 ¿Te encuentras bien?
 
-1700
+1715
 01:20:41,048 --> 01:20:42,122
 Eh, sí.
 
-1701
+1716
 01:20:43,230 --> 01:20:44,520
 Pero no entiendo nada.
 
-1702
+1717
 01:20:46,120 --> 01:20:47,400
 Debías ser hermosa.
 
-1703
+1718
 01:20:50,710 --> 01:20:52,300
 Pero sí eres muy hermosa.
 
-1704
+1719
 01:20:55,152 --> 01:20:57,077
 Esperaba que hubiera un final feliz.
 
-1705
+1720
 01:21:01,804 --> 01:21:06,056
 ♪ I thought love was only true in fairy tales. ♪
 
-1706
+1721
 01:21:07,341 --> 01:21:07,737
 Oi!
 
-1707
+1722
 01:21:07,762 --> 01:21:11,101
 ♪ Meant for someone else but not for me. ♪
 
-1708
+1723
 01:21:13,623 --> 01:21:15,891
 ♪ Love was out to get me. ♪
 
-1709
+1724
 01:21:17,044 --> 01:21:18,544
 ♪ And that's the way it seemed. ♪
 
-1710
+1725
 01:21:19,702 --> 01:21:23,554
 ♪ Disappointment haunted all my dreeaams. ♪
 
-1711
+1726
 01:21:24,134 --> 01:21:25,991
 ♪ And then I saw her face... ♪
 
-1712
+1727
 01:21:27,503 --> 01:21:29,318
 ♪ ...now I'm a believer! ♪
 
-1713
+1728
 01:21:30,700 --> 01:21:32,200
 ♪ And not a trace... ♪
 
-1714
+1729
 01:21:33,484 --> 01:21:34,984
 ♪ ...of doubt in my mind! ♪
 
-1715
+1730
 01:21:39,448 --> 01:21:41,108
 ♪ I'm a believer ♪
 
-1716
+1731
 01:21:36,844 --> 01:21:38,344
 ♪ I'm in love! ♪
 
-1717
+1732
 01:21:39,038 --> 01:21:40,141
 ♪{\an8} Ahh! ♪
 
-1718
+1733
 01:21:37,952 --> 01:21:39,029
 ♪{\an8} Ooh! ♪
 
-1719
+1734
 01:21:41,133 --> 01:21:42,700
 ♪ I couldn't leave her ♪
 
-1720
+1735
 01:21:42,724 --> 01:21:43,920
 ♪ if I tried. ♪
 
-1721
+1736
 01:21:45,352 --> 01:21:47,932
 ¡Que Dios nos bendiga a todos!
 
-1722
+1737
 01:21:48,650 --> 01:21:49,650
 ¡Vamos allá!
 
-1723
+1738
 01:21:49,870 --> 01:21:51,370
 Then I saw her face...
 
-1724
+1739
 01:21:52,776 --> 01:21:54,500
 ...now I'm a believer!
 
-1725
+1740
 01:21:55,790 --> 01:21:57,290
 Not a trace...
 
-1726
+1741
 01:21:58,778 --> 01:22:00,278
 ...of doubt in my mind!
 
-1727
+1742
 01:22:02,158 --> 01:22:03,237
 I'm in love!
 
-1728
+1743
 01:22:03,268 --> 01:22:04,362
 Ooh!
 
-1729
+1744
 01:22:04,386 --> 01:22:05,113
 Ahh!
 
-1730
+1745
 01:22:05,137 --> 01:22:06,264
 I'm a believer,
 
-1731
+1746
 01:22:06,288 --> 01:22:07,749
 I couldn't leave her
 
-1732
+1747
 01:22:07,775 --> 01:22:09,381
 if I tried.
 
-1733
+1748
 01:22:12,231 --> 01:22:14,771
 Then I saw her faaace!
 
-1734
+1749
 01:22:15,218 --> 01:22:16,942
 Now I'm a believer!
 
-1735
+1750
 01:22:17,357 --> 01:22:17,939
 Hey!
 
-1736
+1751
 01:22:18,571 --> 01:22:19,698
 Not a trace...
 
-1737
+1752
 01:22:20,017 --> 01:22:20,348
 Uh!
 
-1738
+1753
 01:22:20,373 --> 01:22:20,721
 Ya!
 
-1739
+1754
 01:22:21,158 --> 01:22:22,658
 ...of doubt in my mind!
 
-1740
+1755
 01:22:23,227 --> 01:22:23,980
 One more time!
 
-1741
+1756
 01:22:24,560 --> 01:22:27,276
 I'm in looove!
 
-1742
+1757
 01:22:27,329 --> 01:22:28,829
 I'm a believer!
 
-1743
+1758
 01:22:29,579 --> 01:22:30,050
 Come on!
 
-1744
+1759
 01:22:31,048 --> 01:22:31,267
 I believe!
 
-1745
+1760
 01:22:32,151 --> 01:22:32,370
 I believe!
 
-1746
+1761
 01:22:31,789 --> 01:22:32,008
 I believe!
 
-1747
+1762
 01:22:33,188 --> 01:22:34,688
 {\an8}I'm a believer.
 
-1748
+1763
 01:22:39,171 --> 01:22:40,671
 {\an8}I'm a believer.
 
-1749
+1764
 01:22:33,655 --> 01:22:33,874
 I believe!
 
-1750
+1765
 01:22:33,287 --> 01:22:33,506
 I believe!
 
-1751
+1766
 01:22:32,903 --> 01:22:33,122
 I believe!
 
-1752
+1767
 01:22:32,525 --> 01:22:32,744
 I believe!
 
-1753
+1768
 01:22:31,421 --> 01:22:31,640
 I believe!
 
-1754
+1769
 01:22:34,023 --> 01:22:34,690
 I believe!
 
-1755
+1770
 01:22:34,820 --> 01:22:35,477
 Hey!
 
-1756
+1771
 01:22:36,100 --> 01:22:36,901
 Y'all sing it with me!
 
-1757
+1772
 01:22:40,222 --> 01:22:40,661
 I...
 
-1758
+1773
 01:22:37,246 --> 01:22:37,685
 I...
 
-1759
+1774
 01:22:43,118 --> 01:22:43,557
 I...
 
-1760
+1775
 01:22:46,142 --> 01:22:46,581
 I...
 
-1761
+1776
 01:22:51,997 --> 01:22:52,436
 {\an8}I...
 
-1762
+1777
 01:22:49,128 --> 01:22:49,567
 I...
 
-1763
+1778
 01:22:38,274 --> 01:22:39,166
 ...believe!
 
-1764
+1779
 01:22:50,257 --> 01:22:51,149
 {\an8}...believe!
 
-1765
+1780
 01:22:47,265 --> 01:22:48,157
 ...believe!
 
-1766
+1781
 01:22:53,201 --> 01:22:54,093
 {\an8}...believe!
 
-1767
+1782
 01:22:44,247 --> 01:22:45,139
 ...believe!
 
-1768
+1783
 01:22:45,163 --> 01:22:46,663
 {\an8}I'm a believer.
 
-1769
+1784
 01:22:41,292 --> 01:22:42,184
 ...believe!
 
-1770
+1785
 01:22:42,281 --> 01:22:43,055
 The people in the back!
 
-1771
+1786
 01:22:50,713 --> 01:22:52,913
 Y vivieron feos y comieron perdices.
 
-1772
+1787
 01:22:53,603 --> 01:22:54,403
 Fin.
 
-1773
+1788
 01:22:58,899 --> 01:22:59,892
 Oh, that's funny!
 
-1774
+1789
 01:23:01,947 --> 01:23:02,656
 ¡Ay, no puedo más!
 
-1775
+1790
 01:23:02,941 --> 01:23:03,829
 ¡No puedo más!
 
-1776
+1791
 01:25:07,580 --> 01:25:15,580
 ¡No puedo más!
 
-1777
+1792
 01:25:35,340 --> 01:25:36,740
 Música.
 
